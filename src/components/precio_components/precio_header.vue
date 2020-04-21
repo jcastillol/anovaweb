@@ -9,12 +9,14 @@
     <a class="nav-link tab" :class="{tabclick: tab2}"  @click="activartab2()"  href="#">ANOVA empresarial </a>
   </li>
 </ul>
+<br>
+
     <transition name="slide-fade" >
 
-<div class="container text-center"  v-if="tab" style="width:400px;">
+<div class="container text-center"  v-if="tab" style="width:420px;">
 
 <div class="card-group border-0 "    >
-  <div class="card border-0 " id="card">
+  <div class="card border-0 " id="cardprecios1">
     <img src="img/precios/precio_2.png" class="card-img-top   " alt="...">
     <div class="card-body ">
       <h5 class="card-title">Card title</h5>
@@ -22,7 +24,7 @@
     </div>
    
   </div>
-  <div class="card  border-0 b" id="card">
+  <div class="card  border-0 " id="cardprecios2">
     <img src="img/precios/precio_1.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -35,6 +37,9 @@
  
 </div>
 <br>
+<br>
+<br>
+
     <img src="img/precios/logos_bancarios.png" alt="...">
 </div>
     </transition>
@@ -92,6 +97,9 @@
   </div>
 
 <br>
+<br>
+<br>
+
     <img src="img/precios/logos_bancarios.png" alt="...">
 </div>
   

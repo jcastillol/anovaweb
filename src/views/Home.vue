@@ -20,6 +20,7 @@
 
 <hc6_preguntas/>
                <h5 class="espacio"></h5>
+               <h5 class="espacio"></h5>
 
 <hc7_procesos/>
 

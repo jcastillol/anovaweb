@@ -1,5 +1,5 @@
 <template>
-    <div class="container"  id="cardsdeck" style="max-width:800px;">
+    <div class="container text-center"  style="max-width:800px;">
   <p class="ml-1" id="tituloe">¿Por qué elegir ANOVA?</p>
   <br>
 

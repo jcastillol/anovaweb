@@ -32,32 +32,36 @@
 
 </div>
 <br>
-<div class="container "  id="clientes2" style="max-width:800px;">
+<br>
+<br>
+
+<br>
+<div class="container text-center"  >
 
  <div class="card-group">
   <div class="card border-0">
     <div class="card-body">
-           <img src="img/home_9.png" class="card-img" alt="..." style="width:119px">
+           <img src="img/home_wingman.png" >
     </div>
   </div>
     <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_10.png" class="card-img " alt="..." style="width:97px">
+                <img src="img/home_maschurro.png" >
     </div>
   </div>
 <div class="card border-0">
     <div class="card-body">
-        <img src="img/home_11.png" class="card-img " alt="..." style="width:68px">
+        <img src="img/home_lamezcalita.png">
     </div>
   </div>
 <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_12.png" class="card-img " alt="..." style="width:68px">
+                <img src="img/home_bones.png">
     </div>
   </div>
   <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_13.png" class="card-img" alt="..." style="width:103px">
+                <img src="img/home_hampton.png" >
     </div>
   </div>
 

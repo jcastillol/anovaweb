@@ -4,7 +4,9 @@
 <p  id="tituloc">SOBRE REQUERIMIENTOS PAGOS Y ENTREGA</p>
 <br>
 
-   <h5  class="card-title text-left" id="tituloa">Lo que debes saber al adquirir ANOVA</h5>
+   <h5  class="card-title text-left" id="tituloa">
+     <img src="img/precios/preciopv_iconopreguntas.png" >
+     Lo que debes saber al adquirir ANOVA</h5>
   <div role="tablist" class="mb-5">
     <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">

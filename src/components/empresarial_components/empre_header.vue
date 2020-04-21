@@ -11,7 +11,8 @@
                 <h5   id="titulog">ANOVA EMPRESARIAL</h5>
                 <br>
    <h5  id="parrafoc">
-        <i class="fas fa-play"></i> Es la solución integral para franquicias y cadenas con <br>
+        <img src="img/play.png" >
+        Es la solución integral para franquicias y cadenas con <br>
              visón general de tu corporativo y sucursales,<br>
     modular, flexible y fácilmente escalable; <br>
       todo en un solo sistema y en tiempo real.
@@ -20,7 +21,8 @@
          
 
 </h5>
-  
+    <br>
+
   <br>
   <button class="button button1 ml-2">Agendar demostración</button>
         <button class="button button2 ml-2">Solicitar cotización</button>

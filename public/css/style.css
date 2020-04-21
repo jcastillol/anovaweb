@@ -101,17 +101,20 @@ body {
   #tituloa
   {
     font-family: Sansation;
-  font-size: 29px; 
+  font-size: 25px; 
   font-weight: bold;
   color: #2DBFF9;
+  line-height: 1;
   }
  
   #titulob
     {
   font-family: Sansation;
-  font-size: 29px; 
+  font-size: 25px; 
   font-weight: bold;
   color: #302CD1;
+  line-height: 1;
+
   }
   
   #tituloa2
@@ -196,14 +199,17 @@ font-weight: bold;
 #tituloi
 {
   font-family: Sansation;
-  font-size: 40px; 
+  font-size: 30px; 
   color: #FFF;
+  line-height: 1;
 }
 #tituloj
 {
   font-family: Sansation;
-  font-size: 40px; 
+  font-size: 30px; 
   color: greenyellow;
+  line-height: 1;
+
 }
 
 #titulok
@@ -266,13 +272,31 @@ color: #302CD1;
     
   }
   
+#card
+{
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
 
-  #card
+}
+  #cardprecios1
   {
     border-radius: 20px 20px 20px 20px;
     border-left: 1px  #000000 solid;
+    width: 208px;
+    margin-right: 1px;
+
+    box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.3);
 
   } 
+  #cardprecios2
+  {
+    border-radius: 20px 20px 20px 20px;
+    border-left: 1px  #000000 solid;
+    width: 200px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+
+  }
   
   .tab
   {

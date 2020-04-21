@@ -1,7 +1,7 @@
 <template>
 
  <div class="container-fluid bg-transparent"  id="homerestaurantes"  >
-   <div class="container" style="max-width:1400px;">
+   <div class="container text-center" style="max-width:1400px;">
  <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
     <div class="col-md-5">

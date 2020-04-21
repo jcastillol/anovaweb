@@ -11,7 +11,8 @@
       <h5  id="titulog">ANOVA Punto de venta</h5>
  <br>
       <h5   id="parrafoc">
-        <i class="fas fa-play"></i> Dejanos a nosotros la administración </h5>
+                <img src="img/play.png" >
+Dejanos a nosotros la administración </h5>
             <h5  id="parrafoc">y  dedicale mas tiempo a tus clientes</h5>
 <br>
     <button class="button button1 ml-2">Descargar demos</button>

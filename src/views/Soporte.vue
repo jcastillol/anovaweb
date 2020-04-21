@@ -1,5 +1,17 @@
 <template>
-    <h1>
-soporte        
-    </h1>
+  <div>
+
+  </div>
 </template>
+<script>
+
+
+
+export default {
+    name: 'soporte',
+    components:
+    {
+        
+    }
+}
+</script>

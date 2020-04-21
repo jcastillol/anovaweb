@@ -17,16 +17,18 @@
     modular, flexible y fácilmente escalable; <br>
       todo en un solo sistema y en tiempo real.
 
+  <br>
 
-         
+  <br> 
+      <br>
+
+  <br>    
 
 </h5>
-    <br>
-
-  <br>
+   
   <button class="button button1 ml-2">Agendar demostración</button>
         <button class="button button2 ml-2">Solicitar cotización</button>
- 
+
           </b-card-text>
         </b-card-body>
       </b-col>
@@ -43,5 +45,9 @@ export default {
 #parrafoc
 {
   font-weight: lighter;
+}
+.button
+{
+  margin-bottom: 30%
 }
 </style>

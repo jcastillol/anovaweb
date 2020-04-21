@@ -1,5 +1,5 @@
 <template>
-     <div class="container text-center"   style="max-width:1200px;">
+     <div class="container text-center"   style="max-width:1000px;">
       <h5  id="titulob2">MODULO</h5>
     <h5  id="tituloa2">VENTAS </h5>
 <br>
@@ -10,11 +10,13 @@
 <br>
 <br>
 
-<h5 class="tituloc">
+<p class="tituloc">
     Visualiza la centralización de ventas entre sucursales, cancelaciones y descuentos, análisis de ventas de productos y 
 promociones, base de datos única de clientes, y la segmentación de clientes, además realiza email marketing.
-</h5>
+</p>
 <br>
+<br>
+
      <div class="container text-center"   style="max-width:600px;">
 
 <div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters" >
@@ -81,3 +83,10 @@ export default {
 </script>
 
 
+<style scoped>
+#titulol
+{
+ margin-top: 6%;
+}
+
+</style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container border-0  bg-transparent" v-if="$route.name === 'Precios'" id="precios" style="max-width:600px;" >
+    <div class="container border-0  bg-transparent"  style="max-width:600px;" >
 
 <ul class="nav justify-content-center mb-1 " >
   <li class="nav-item" >

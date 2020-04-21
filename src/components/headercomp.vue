@@ -25,7 +25,10 @@
   <empreheader/>
 
 </div>
+<div v-if="$route.name === 'Soporte'" >
+  <soporteheader/>
 
+</div>
 
 </div>
 </template>
@@ -35,6 +38,7 @@ import empreheader from '@/components/empresarial_components/empre_header.vue'
 
 import puntoheader from '@/components/punto_components/punto_header.vue'
 import precioheader from '@/components/precio_components/precio_header.vue'
+import soporteheader from '@/components/soporte_components/soporte_header'
 
 export default {
   name:'headercomp',
@@ -48,7 +52,8 @@ export default {
      homeheader,
      puntoheader,
      empreheader,
-     precioheader
+     precioheader,
+     soporteheader
 
 
     },

@@ -23,9 +23,6 @@ export default {
 {
     margin-top: 5%;
 }
-#soporteheader
-{
-    margin-bottom:20%;
-}
+
 
 </style>

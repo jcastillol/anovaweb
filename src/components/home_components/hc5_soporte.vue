@@ -11,6 +11,7 @@
     <li class="list-group-item border-0">
     <p class="card-text text-center" id="parrafo">Un equipo de expertos ANOVA está para ayudarte a resolver cualquier duda 
 y darte soporte  en la operción  y administración de tu restaurante.  </p>
+<br>
     <button class="button button2 ml-2">Ir a Soporte</button>
 
     </li>

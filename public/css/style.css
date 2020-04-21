@@ -353,7 +353,8 @@ color: #302CD1;
 
   }
   
-  .button1:hover {
+  
+  .button:hover {
   
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
@@ -365,12 +366,16 @@ color: #302CD1;
     border: 1px solid #302CD1;
 
   }
-  
-  .button2:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-
+  .button3
+  {
+    background-color: #76c7f4; 
+    color: #fff; 
+    border: 1px solid #76c7f4;
   }
+  
+ 
 
+ 
   hr
   {
     border: 4px solid;

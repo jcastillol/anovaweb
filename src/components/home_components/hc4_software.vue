@@ -17,8 +17,10 @@
       </li>
     <li class="list-group-item border-0 text-center"> 
       <h5  class="card-title text-right" id="tituloc">PODRAS OPERAR Y ADMINISTRAR</h5>
-            <h5  class="card-title text-right" id="tituloc">TODO TU NEGOCIO DESDE UN SOLO LUGAR </h5>
+            <h5  class="card-title text-right" id="tituloc">TODO TU NEGOCIO DESDE UN SOLO LUGAR  </h5>
+     <br>
       <p class="card-text text-right" id="parrafo">Aumenta tus utilidades controlando todas las áreas, realiza las actividades diarias más rapido y automatiza todas las operaciones de tu negocio desde un solo lugar.</p>
+  <br>
     <button class="button button2 ml-2">ver mas información</button>
 
     </li>
@@ -47,8 +49,9 @@
     <li class="list-group-item border-0 text-center"> 
       <h5  class="card-title text-left" id="tituloc">UNICAMENTE CONECTALO</h5>
             <h5  class="card-title text-left" id="tituloc">Y DISFRUTA LOS BENEFICIOS</h5>
-
+<br>
       <p class="card-text text-left" id="parrafo">Nosotros configuramos todo el equipo de punto de venta(Computadoras, impresoras, tablets y otros dispositivos) y te lo entregamos listo para usar</p>
+ <br>
     <button class="button button2 ml-2 ">Ir a tienda ANOVA</button>
 
     </li>

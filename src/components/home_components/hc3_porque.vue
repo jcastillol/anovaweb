@@ -24,9 +24,9 @@
   </div>
 </div>
 
-<div class="row  mt-4">
-  <div class="col-sm-6">
-    <div class="card border-0  mt-3">
+<div class="row">
+  <div class="col-md-6 mt-4">
+    <div class="card border-0">
       <img src="img/home/home_iconotiempo.png" class="mx-auto">
       <div class="card-body mx-auto">
         <h5 class="card-title" id="titulod">TIEMPO PARA TI</h5>
@@ -34,8 +34,8 @@
       </div>
     </div>
   </div>
-  <div class="col-sm-6  mt-4">
-    <div class="card border-0 mt-3">
+  <div class="col-md-6  mt-4">
+    <div class="card border-0">
       <img src="img/home/home_iconocontrol.png" class="mx-auto">
       <div class="card-body mx-auto">
         <h5 class="card-title" id="titulod">CONTROL TOTAL</h5>
@@ -44,6 +44,7 @@
     </div>
   </div>
 </div>
+
 </div>
 </template>
 <script>

@@ -4,8 +4,8 @@
    <div class="container text-center" style="max-width:1400px;">
  <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
-    <div class="col-md-5">
-      <img src="img/home/home_mujer.png" class="card-img mt-4 nomovil " alt="..." style="width:600px;" >
+    <div class="col-md-5 nomovil">
+      <img src="img/home/home_mujer.png" class="card-img mt-4  " alt="..." style="width:600px;" >
     </div>
     <div class="col-md-7 ">
       <div class="card-body mt-3">

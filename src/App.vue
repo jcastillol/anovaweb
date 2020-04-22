@@ -40,7 +40,7 @@
 
  </div>
  <div class="simovil">
-<div class="container  " id="header" style="background-image:url('img/home_fondo.png')">
+<div class="container  " id="header" style="background-image:url('img/header/Acceso_anova.png')">
 <div class="container " id="nav" style="max-width:1400px"> 
   <b-navbar bg-transparent toggleable="lg" class="px-auto mt-4" type="dark" >
     <b-navbar-brand :to="{name: 'Home'}" ><img src="img/logoo blanco.png"  id="logo"></b-navbar-brand>
@@ -59,7 +59,7 @@
           <b-button pill   size="md" id="buttonwha" variant="light" class="my-2 my-sm-0 ml-3" type="submit">
             <i class="fab fa-whatsapp"></i> ¡Escríbenos! </b-button>
      
-        <b-nav-item class="text-center"> <i class="fas fa-sign-in-alt pl-3"></i> Acceder a ANOVA</b-nav-item>
+        <b-nav-item class="text-center" :to="{name: 'Acceso_anova'}"> <i class="fas fa-sign-in-alt pl-3"></i> Acceder a ANOVA</b-nav-item>
 
 
 

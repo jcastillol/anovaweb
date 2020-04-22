@@ -47,7 +47,7 @@ body {
   {
     text-align: center;
   }
-
+ 
   #homerestaurantes
  {
      background-image:url('../img/home_fondo.png');
@@ -74,6 +74,17 @@ body {
     height: auto;
     background-size: 100% 100%;
     color: #fff;
+}
+
+
+#link
+{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 18px; 
+color: #fff;
+
 }
 
   #titulohome
@@ -225,6 +236,7 @@ color: #fff;
   font-size: 18px; 
   font-weight: bolder;
   color: #5e6bef;
+  margin-top: 6%;
 }
   #parrafo
   {
@@ -314,6 +326,30 @@ color: #302CD1;
     border-bottom: 2px solid white;
   }
 
+  #form
+  {
+    max-width: 640px;
+    background-color: white;
+    border-radius: 40px;
+    height:174px;
+    box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+
+  
+  }
+
+  input[type=text] {
+  
+    padding: 12px 30px;
+    margin: 5px 0;
+    width: 568.1px;
+    height: 48.4px;
+    border-radius: 21.7px;
+    border: solid 1px #b2b2b2;
+    font-family: Sansation;
+    font-size: 22px;
+    text-align: left;
+    color: #b2b2b2;
+  }
   
   .button
   {
@@ -382,7 +418,7 @@ color: #302CD1;
   }
   .espacio
   {
-    background-color:white;
+    background-color:rgba(0, 0, 0, 0);
 
     width: 100px;
     height: 85px;

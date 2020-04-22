@@ -1,18 +1,18 @@
 <template>
      <div class="container text-center"   style="max-width:1000px;">
       <h5  id="titulob2">MODULO</h5>
-    <h5  id="tituloa2">VENTAS </h5>
+    <h5  id="tituloa2">AUDITORÍA E INSPECCIÓN </h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconoventas.png"  >
+      <img src="img/empresarial/empresarial_iconoaudotoria.png"  >
      
 <br>
 <br>
 <br>
 
 <p class="tituloc">
-    Visualiza la centralización de ventas entre sucursales, cancelaciones y descuentos, análisis de ventas de productos y 
-promociones, base de datos única de clientes, y la segmentación de clientes, además realiza email marketing.
+Asegura la calidad y consistencia de tu marca en todas las franquicias y/o sucursales<br>
+a través de la evaluación y seguimiento de los puntos clave que deben cumplirse.
 </p>
 <br>
 <br>
@@ -23,15 +23,15 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas1.png" alt="..." class="mb-1" >
-          <p id="titulol">Pago de regalías y cuotas</p>        </div>
+          <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1" >
+          <p id="titulol">Auditoria de calidad</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas2.png" alt="..." class="mb-1" >
-          <p id="titulol">CRM</p>        </div>
+          <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1" >
+          <p id="titulol">Auditoria de  procesos</p>        </div>
       </div>
     </div>
     
@@ -44,25 +44,25 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas3.png" alt="..." class="mb-1" >
-          <p id="titulol">Reporte de ventas
-multisucursales</p>        </div>
+          <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1" >
+          <p id="titulol"> Auditoria de servicios   </p>       
+        </div>
       </div>
     </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas4.png" alt="..." class="mb-1" >
-          <p id="titulol">Punto
-de venta</p>        </div>
+          <img src="img/empresarial/empresarial_iconoaudotoria4.png" alt="..." class="mb-1" >
+          <p id="titulol">Solicitud de mantenimiento</p>        
+       </div>
       </div>
       </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas5.png" alt="..." class="mb-1" >
-          <p id="titulol">Lista de precios
-por sucursal</p>        </div>
+          <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1" >
+          <p id="titulol">Check list de actividades diarias</p>       
+        </div>
       </div>
       </div>   
 
@@ -78,7 +78,7 @@ por sucursal</p>        </div>
 </template>
 <script>
 export default {
-    name:'ec2_ventas'
+    name:'ec6_auditoria'
 }
 </script>
 

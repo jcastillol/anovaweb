@@ -23,7 +23,7 @@
           <b-button pill   size="md" id="buttonwha" variant="light" class="my-2 my-sm-0 ml-3" type="submit">
             <i class="fab fa-whatsapp"></i> ¡Escríbenos! </b-button>
      
-        <b-nav-item><i class="fas fa-sign-in-alt pl-3"></i> Acceder a ANOVA</b-nav-item>
+        <b-nav-item :to="{name: 'Acceso_anova'}"><i class="fas fa-sign-in-alt pl-3"></i> Acceder a ANOVA</b-nav-item>
 
 
 

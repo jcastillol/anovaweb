@@ -30,6 +30,11 @@
 
 </div>
 
+<div v-if="$route.name === 'Acceso_anova'" >
+  <accesoheader/>
+
+</div>
+
 </div>
 </template>
 <script>
@@ -38,22 +43,18 @@ import empreheader from '@/components/empresarial_components/empre_header.vue'
 
 import puntoheader from '@/components/punto_components/punto_header.vue'
 import precioheader from '@/components/precio_components/precio_header.vue'
-import soporteheader from '@/components/soporte_components/soporte_header'
+import soporteheader from '@/components/soporte_components/soporte_header.vue'
+import accesoheader from '@/components/acceso/acceso_header.vue'
 
 export default {
   name:'headercomp',
-  data() {
-      return {
-        tab: true,
-        tab2: false
-      }
-    },
     components: {
      homeheader,
      puntoheader,
      empreheader,
      precioheader,
-     soporteheader
+     soporteheader,
+     accesoheader
 
 
     },

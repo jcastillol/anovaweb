@@ -1,18 +1,19 @@
 <template>
      <div class="container text-center"   style="max-width:1000px;">
       <h5  id="titulob2">MODULO</h5>
-    <h5  id="tituloa2">VENTAS </h5>
+    <h5  id="tituloa2">GESTIÓN DE PROYECTOS <br>
+         DE NUEVAS APERTURAS</h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconoventas.png"  >
+      <img src="img/empresarial/empresarial_iconogestion.png"  >
      
 <br>
 <br>
 <br>
 
 <p class="tituloc">
-    Visualiza la centralización de ventas entre sucursales, cancelaciones y descuentos, análisis de ventas de productos y 
-promociones, base de datos única de clientes, y la segmentación de clientes, además realiza email marketing.
+   Planifica las actividades y recursos, da seguimiento a las tareas y personas involucradas, <br>
+minimiza los riesgos elaborando presupuestos para la  remodelación o apertura de una nueva sucursal.
 </p>
 <br>
 <br>
@@ -23,15 +24,16 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas1.png" alt="..." class="mb-1" >
-          <p id="titulol">Pago de regalías y cuotas</p>        </div>
+          <img src="img/empresarial/empresarial_iconogestion1.png" alt="..." class="mb-1" >
+          <p id="titulol">Calendario de actividades</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas2.png" alt="..." class="mb-1" >
-          <p id="titulol">CRM</p>        </div>
+          <img src="img/empresarial/empresarial_iconogestion2.png" alt="..." class="mb-1" >
+          <p id="titulol">Asignación de tareas por perfil</p>       
+        </div>
       </div>
     </div>
     
@@ -44,25 +46,25 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas3.png" alt="..." class="mb-1" >
-          <p id="titulol">Reporte de ventas
-multisucursales</p>        </div>
+          <img src="img/empresarial/empresarial_iconogestion3.png" alt="..." class="mb-1" >
+          <p id="titulol">Gestión de presupuestos</p>        
+        </div>
       </div>
     </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas4.png" alt="..." class="mb-1" >
-          <p id="titulol">Punto
-de venta</p>        </div>
+          <img src="img/empresarial/empresarial_iconogestion4.png" alt="..." class="mb-1" >
+          <p id="titulol">Lista de compras</p>        
+        </div>
       </div>
       </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoventas5.png" alt="..." class="mb-1" >
-          <p id="titulol">Lista de precios
-por sucursal</p>        </div>
+          <img src="img/empresarial/empresarial_iconogestion5.png" alt="..." class="mb-1" >
+          <p id="titulol">Gestión de documentos Google Drive</p>       
+       </div>
       </div>
       </div>   
 

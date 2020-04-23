@@ -19,7 +19,7 @@ basadas en consumos, cumple con regulaciones fiscales y ten bajo control el mane
 
      <div class="container text-center"   style="max-width:1000px;">
 
-<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters" >
+<div class="row row-cols-2 row-cols-md-4 bg-transparent no-gutters" >
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">

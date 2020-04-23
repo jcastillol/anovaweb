@@ -3,7 +3,7 @@
   <div class="row no-gutters">
    
     <div class="col-md-6">
-      <div class="card-body   bg-transparent ">
+      <div class="card-body  text-center text-md-left bg-transparent ">
          
       
  <p  id="titulohome">  Controlar tu restaurante <br> nunca fue tan facil</p> 
@@ -12,7 +12,7 @@
    <br> 
 
   <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de anova</button>
-    <button class="button button2 ml-2 mt-2">Prueba gratis 30 dias</button>
+    <button class="button button2 ml-1 mt-2">Prueba gratis 30 dias</button>
  
       </div>
     </div>

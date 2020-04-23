@@ -7,6 +7,9 @@
 <br>
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
   <div class="row ">
+     <div class="col-md-7 order-md-5">
+      <img src="img/punto/pv_dashboardgerencial.png" class="card-img"  style="max-width:765px">
+    </div>
     <div class="col-md-5  " >
       <div class="card-body  text-right">
       <h5  class="card-title"  id="tituloa">COMPARA</h5>
@@ -20,9 +23,7 @@
 
       </div>
     </div>
-     <div class="col-md-6">
-      <img src="img/punto/pv_dashboardgerencial.png" width="765px"  >
-    </div>
+    
   </div>
 </div>
 <br>
@@ -31,8 +32,8 @@
 
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
   <div class="row ">
-    <div class="col-md- ">
-      <img src="img/punto/pv_asistentedeinventarios.png"  width="765px" >
+    <div class="col-md-7 ">
+      <img src="img/punto/pv_asistentedeinventarios.png"   class="card-img"  style="max-width:765px" >
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-left">

@@ -94,7 +94,6 @@ color: #fff;
   font-size: min(9.3vw,40px); 
   color: #fff;
   font-weight: bold;
-  text-align: left;
   line-height: 50px;
   margin-top: 20%;
 
@@ -103,7 +102,6 @@ color: #fff;
   {
     font-family: Sansation;
     font-size: 24px; 
-    text-align: left;
     line-height: 45px;
 
 
@@ -131,7 +129,7 @@ color: #fff;
   #tituloa2
   {
     font-family: Sansation;
-  font-size: 40px; 
+  font-size: min(9.3vw,40px); 
   font-weight: bold;
   color: #2DBFF9;
   }
@@ -139,7 +137,7 @@ color: #fff;
   #titulob2
     {
   font-family: Sansation;
-  font-size: 40px; 
+  font-size: min(9.3vw,40px); 
   font-weight: bold;
   color: #302CD1;
   }
@@ -147,7 +145,7 @@ color: #fff;
   #tituloc
     {
   font-family: Sansation;
-  font-size: 18px; 
+  font-size: min(4.8vw,18px); 
   font-weight: bold;
   columns: #000000;;
   }
@@ -166,9 +164,8 @@ color: #fff;
 #tituloe
 {
 font-family: Sansation;
-font-size: 40px; 
+font-size: min(8.3vw,40px); 
 font-weight: bold;
-line-height: 40px;
 color: #302CD1;
 text-align: center;
 }
@@ -191,7 +188,7 @@ color: #302CD1;
 #titulog
 {
   font-family: Sansation;
-font-size: 40px; 
+  font-size: min(8vw,40px); 
 font-weight: 600;
 color: #FFF;
 
@@ -199,7 +196,7 @@ color: #FFF;
 #tituloh
 {
   font-family: Sansation;
-font-size: 40px; 
+  font-size: min(8vw,40px); 
 color: #2DBFF9;
 font-weight: bold;
 
@@ -341,7 +338,7 @@ color: #302CD1;
   
     padding: 12px 30px;
     margin: 5px 0;
-    width: 568.1px;
+    width: 90%;
     height: 48.4px;
     border-radius: 21.7px;
     border: solid 1px #b2b2b2;
@@ -430,6 +427,10 @@ color: #302CD1;
   }
   @media (max-width: 576px) 
   {
+    #homerestaurantes
+    {
+      background-size: cover;
+    }
     #header {
    
 
@@ -467,6 +468,7 @@ color: #302CD1;
   {
     text-align: center;
   }
+  
   
   }
 

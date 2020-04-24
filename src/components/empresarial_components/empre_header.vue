@@ -3,12 +3,12 @@
      <b-card no-body class="overflow-hidden mt-4 border-0" style="max-width: 1400px;" bg-variant="transparent">
     <b-row>
       <b-col md="6" class="mt-4">
-        <img src="img/empresarial/header.png" width="640px" >
+        <img src="img/empresarial/header.png" width="640px" class="nomovil card-img" >
       </b-col>
       <b-col md="6">
         <b-card-body>
-          <b-card-text class="text-right">
-                <h5   id="titulog">ANOVA EMPRESARIAL</h5>
+          <b-card-text class="text-center text-md-right">
+                <h5   id="titulohome">ANOVA EMPRESARIAL</h5>
                 <br>
    <h5  id="parrafoc">
         <img src="img/play.png" >
@@ -20,13 +20,12 @@
   <br>
 
   <br> 
-      <br>
 
   <br>    
 
 </h5>
    
-  <button class="button button1 ml-2">Agendar demostración</button>
+  <button class="button button1 mb-2">Agendar demostración</button>
         <button class="button button2 ml-2">Solicitar cotización</button>
 
           </b-card-text>
@@ -46,8 +45,8 @@ export default {
 {
   font-weight: lighter;
 }
-.button
+.button2
 {
-  margin-bottom: 30%
+margin-bottom:5%
 }
 </style>

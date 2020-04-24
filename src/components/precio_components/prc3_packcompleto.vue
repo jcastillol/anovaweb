@@ -7,7 +7,7 @@
 <div class="card  bg-transparent border-0" >
   <ul class="list-group bg-transparent list-group-flush">
     <li class="list-group-item border-0 bg-transparent "> 
-      <img src="img/precios/preciopv_solucioncompleta.png"  alt="...">
+      <img src="img/precios/preciopv_solucioncompleta.png"  class="card-img"  style="max-width:786px">
 </li>
     <li class="list-group-item border-0 bg-transparent ">
      

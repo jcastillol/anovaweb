@@ -4,7 +4,7 @@
     <h5  id="tituloa2">FINANZAS </h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconofinanzas.png"  >
+      <img src="img/empresarial/empresarial_iconofinanzas.png" class=" mx-auto"  >
      
 <br>
 <br>
@@ -21,23 +21,23 @@ basadas en consumos, cumple con regulaciones fiscales y ten bajo control el mane
 
 <div class="row row-cols-2 row-cols-md-4 bg-transparent no-gutters" >
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas1.png" alt="..." class="mb-1" >
+      <div class="card bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconofinanzas1.png" alt="..." class="mb-1 " >
           <p id="titulol">Contabilidad Electronica</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas2.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas2.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Estados financieros</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas3.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas3.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Facturación CFDI 3.3
 y autofacturación</p>        </div>
       </div>
@@ -45,7 +45,7 @@ y autofacturación</p>        </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas4.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas4.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Control de gastos</p>        </div>
       </div>
     </div>
@@ -59,7 +59,7 @@ y autofacturación</p>        </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas5.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas5.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de compras</p>       
         </div>
       </div>
@@ -67,7 +67,7 @@ y autofacturación</p>        </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas6.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas6.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de activo fijo</p>        
         </div>
       </div>
@@ -75,7 +75,7 @@ y autofacturación</p>        </div>
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconofinanzas7.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconofinanzas7.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de bancos
           </p>        
         </div>

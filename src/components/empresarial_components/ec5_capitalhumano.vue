@@ -4,9 +4,10 @@
     <h5  id="tituloa2">CAPITAL HUMANO </h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconocapitalhumano.png"  >
+      <img src="img/empresarial/empresarial_iconocapitalhumano.png" class="mx-auto card-img" style="max-width:427px">
      
 <br>
+
 <br>
 <br>
 
@@ -23,7 +24,7 @@ tus múltiples sucursales como de tu corporativo.
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano1.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano1.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Expedientes de empleados</p>       
          </div>
       </div>
@@ -31,7 +32,7 @@ tus múltiples sucursales como de tu corporativo.
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano2.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano2.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de contratos</p>       
       </div>
       </div>
@@ -39,7 +40,7 @@ tus múltiples sucursales como de tu corporativo.
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano3.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano3.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de permisos y vacaciones</p>       
         </div>
       </div>
@@ -54,7 +55,7 @@ tus múltiples sucursales como de tu corporativo.
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano4.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano4.png" alt="..." class="mb-1 mx-auto"  >
           <p id="titulol">Proceso de reclutamiento</p>       
         </div>
       </div>
@@ -62,7 +63,7 @@ tus múltiples sucursales como de tu corporativo.
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano5.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano5.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Evaluación y valoración</p>        
         </div>
       </div>
@@ -78,28 +79,28 @@ tus múltiples sucursales como de tu corporativo.
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano6.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano6.png" alt="..." class="mb-1  mx-auto" >
           <p id="titulol">Control de asistencias</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano7.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano7.png" alt="..." class="mb-1  mx-auto" >
           <p id="titulol">Horarios de empleados</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano8.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano8.png" alt="..." class="mb-1  mx-auto" >
           <p id="titulol">Nómina timbrada</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconocapitalhumano9.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconocapitalhumano9.png" alt="..." class="mb-1  mx-auto" >
           <p id="titulol">Premios y distinciones</p>        
         </div>
       </div>

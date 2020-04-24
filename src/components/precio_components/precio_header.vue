@@ -13,7 +13,7 @@
 
     <transition name="slide-fade" >
 
-<div class="container text-center"  v-if="tab" style="width:420px;">
+<div class="container text-center"  v-if="tab" style="max-width:420px;">
 
 <div class="card-group border-0 "    >
   <div class="card border-0 " id="cardprecios1">
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-    <img src="img/precios/logos_bancarios.png" alt="...">
+    <img src="img/precios/logos_bancarios.png" alt="..." class="card-img" style="max-width:267px">
 </div>
     </transition>
     <transition name="slide-fade2" >

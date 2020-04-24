@@ -41,30 +41,30 @@
  <div class="card-group">
   <div class="card border-0">
     <div class="card-body">
-           <img src="img/home_wingman.png" >
+           <img src="img/home_wingman.png" class="card-img" >
     </div>
   </div>
     <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_maschurro.png" >
+                <img src="img/home_maschurro.png"  class="card-img">
     </div>
   </div>
 <div class="card border-0">
     <div class="card-body">
-        <img src="img/home_lamezcalita.png">
+        <img src="img/home_lamezcalita.png" class="card-img">
     </div>
   </div>
 <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_bones.png">
+                <img src="img/home_bones.png" class="card-img">
     </div>
   </div>
   <div class="card border-0">
     <div class="card-body">
-                <img src="img/home_hampton.png" >
+                <img src="img/home_hampton.png" class="card-img" >
     </div>
   </div>
-
+  
 </div>
 
 

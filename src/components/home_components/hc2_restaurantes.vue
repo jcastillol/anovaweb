@@ -10,7 +10,7 @@
     <div class="col-lg-7 ">
       <div class="card-body mt-3">
   
-      <h5  class=" text-center text-md-right " id="titulog">Perfecto para </h5>
+      <h5  class=" text-center text-md-right " id="titulohome">Perfecto para </h5>
       <h5  class="text-center text-md-right " id="tituloh"> RESTAURANTES como el tuyo</h5>
        
  <div class="row row-cols-2 row-cols-md-4 bg-transparent no-gutters">
@@ -89,3 +89,10 @@ export default {
     name: 'home_restaurantes'
 }
 </script>
+<style scoped>
+#titulohome
+{
+    font-size: min(8vw,40px); 
+
+}
+</style>

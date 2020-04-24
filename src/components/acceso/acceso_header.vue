@@ -2,7 +2,7 @@
       <div class="container text-center">
         <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
-      <p id="titulog">Bienvenido a <br> ANOVA</p>
+      <p id="titulohome">Bienvenido a <br> ANOVA</p>
             <p id="parrafoc">¿No tienes una cuenta? <a href="/recuperar_contraseña" id="link">Crea una</a> </p>
 
       <form>

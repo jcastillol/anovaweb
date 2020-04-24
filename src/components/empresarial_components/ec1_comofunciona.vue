@@ -4,7 +4,7 @@
     <h5  id="tituloa2">FUNCIONA? </h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_diagrama.png" class="card-img" >
+      <img src="img/empresarial/empresarial_diagrama.png" class=" card-img " style="max-width:686px" >
 
 
 

@@ -1,6 +1,6 @@
 <template>
     <div class="container text-center" id="soporteheader" >
-         <h5  id="titulog">         
+         <h5  id="titulohome">         
              <img src="img/play.png" >
             Centro de soporte ANOVA
          </h5>
@@ -19,7 +19,7 @@ export default {
 }
 </script>
 <style scoped>
-#titulog
+#titulohome
 {
     margin-top: 5%;
 }

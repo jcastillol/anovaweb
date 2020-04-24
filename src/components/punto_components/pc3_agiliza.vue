@@ -8,8 +8,11 @@ DE TUS ÁREAS </p>
 <br>
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
   <div class="row ">
+     <div class="col-md-7 order-md-5">
+      <img src="img/punto/pv_mapademesas.png" class="card-img" width="765px"  >
+    </div>
     <div class="col-md-5  " >
-      <div class="card-body  text-right">
+      <div class="card-body text-center text-md-right">
       <h5  class="card-title"  id="tituloa">AGILIZA </h5>
             <h5  class="card-title" id="titulob">TU SERVICIO</h5>
       <h5  class="card-title" id="tituloc">MAPA DE MESAS</h5>
@@ -21,9 +24,7 @@ desde dividir una mesa hasta pagar una cuenta.
 
       </div>
     </div>
-     <div class="col-md-6">
-      <img src="img/punto/pv_mapademesas.png" width="765px"  >
-    </div>
+    
   </div>
 </div>
 <br>
@@ -32,11 +33,11 @@ desde dividir una mesa hasta pagar una cuenta.
 
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
   <div class="row ">
-    <div class="col-md- ">
-      <img src="img/punto/pv_cortedecaja.png"  width="765px" >
+    <div class="col-md-7">
+      <img src="img/punto/pv_cortedecaja.png" class="card-img"  width="765px" >
     </div>
     <div class="col-md-5  " >
-      <div class="card-body text-left">
+      <div class="card-body text-center text-md-left">
       <h5  class="card-title  "  id="tituloa">PERSONALIZA</h5>
             <h5  class="card-title" id="titulob">TUS COMANDAS</h5>
       <h5  class="card-title" id="tituloc">COMANDERO RAPIDO</h5>

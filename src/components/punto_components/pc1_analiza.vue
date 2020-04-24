@@ -11,10 +11,10 @@
       <img src="img/punto/pv_dashboardgerencial.png" class="card-img"  style="max-width:765px">
     </div>
     <div class="col-md-5  " >
-      <div class="card-body  text-right">
-      <h5  class="card-title"  id="tituloa">COMPARA</h5>
-            <h5  class="card-title" id="titulob">TUS METRICAS</h5>
-      <h5  class="card-title" id="tituloc">DASHBOARD GERENCIAL</h5>
+      <div class="card-body text-center text-md-right">
+      <h5   id="tituloa">COMPARA</h5>
+            <h5   id="titulob">TUS METRICAS</h5>
+      <h5   id="tituloc">DASHBOARD GERENCIAL</h5>
       <p class="card-text" id="parrafo">
         Nosotros configuramos todo el equipo de punto de venta
         (Computadoras, impresoras, tablets y otros dispositivos) 
@@ -36,11 +36,11 @@
       <img src="img/punto/pv_asistentedeinventarios.png"   class="card-img"  style="max-width:765px" >
     </div>
     <div class="col-md-5  " >
-      <div class="card-body text-left">
-      <h5  class="card-title  "  id="tituloa">CONTROLA</h5>
-            <h5  class="card-title" id="titulob">TUS INSUMOS</h5>
-      <h5  class="card-title" id="tituloc">ASISTENTE DE INVENTARIOS</h5>
-      <p class="card-text" id="parrafo">
+      <div class="card-body text-center text-md-left">
+      <h5    id="tituloa">CONTROLA</h5>
+            <h5  id="titulob">TUS INSUMOS</h5>
+      <h5   id="tituloc">ASISTENTE DE INVENTARIOS</h5>
+      <p id="parrafo">
         ¡No te quedes sin producto ! ANOVA te avisa cuando 
         es buen momento para comprar insumos, gracias a 
         nuestro algoritmo inteligente.

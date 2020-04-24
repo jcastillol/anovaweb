@@ -94,8 +94,6 @@ color: #fff;
   font-size: min(9.3vw,40px); 
   color: #fff;
   font-weight: bold;
-  line-height: 50px;
-  margin-top: 20%;
 
   }
   #subtitulohome
@@ -164,7 +162,7 @@ color: #fff;
 #tituloe
 {
 font-family: Sansation;
-font-size: min(8.3vw,40px); 
+font-size: min(8vw,40px); 
 font-weight: bold;
 color: #302CD1;
 text-align: center;
@@ -185,14 +183,7 @@ font-weight: bold;
 color: #302CD1;
 }
   
-#titulog
-{
-  font-family: Sansation;
-  font-size: min(8vw,40px); 
-font-weight: 600;
-color: #FFF;
 
-}
 #tituloh
 {
   font-family: Sansation;
@@ -427,48 +418,33 @@ color: #302CD1;
   }
   @media (max-width: 576px) 
   {
+  
+    .nomovil
+    {
+      display: none ;
+    } 
+    .simovil
+    {
+      display: inline ;
+    }  
+  
+  
+  }
+
+  @media (max-width: 1000px) 
+  {
+    #header
+    {
+      background-size: cover;
+    }
     #homerestaurantes
     {
       background-size: cover;
     }
-    #header {
-   
-
-      height: auto;
-      max-width: 2000px;
-      background-size: 100% 100%;
-        background-position: fixed;
-      color:#fff;
-      }
     #nav
     {
       display: inline;
     }
-  .nomovil
-  {
-    display: none ;
-  } 
-  .simovil
-  {
-    display: inline ;
-  }   
-  #titulohome
-  {
-    text-align: center;
-  }
-  #tituloa
-  {
-    text-align: center;
-  }
-  #titulob
-  {
-    text-align: center;
-  }
-  #tituloc
-  {
-    text-align: center;
-  }
   
-  
+   
   }
-

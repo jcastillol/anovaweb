@@ -4,7 +4,7 @@
     <div class="row">
   <div class="col-sm-4">
     <div class="card border-0">
-      <img src="img/punto/mapa.png" class="mx-auto" alt="..." >
+      <img src="img/punto/mapa.png" class="mx-auto " alt="..."  >
       <div class="card-body mx-auto">
         <h5 class="card-title" id="titulod">REPORTES <br>
 MULTISUCURSAL</h5>
@@ -17,7 +17,7 @@ sucursales o franquicias.
   </div>
   <div class="col-sm-4">
     <div class="card border-0">
-      <img src="img/punto/pantallitas.png" class="mx-auto" alt="..." >
+      <img src="img/punto/pantallitas.png" class="mx-auto  "  alt="..." />
       <div class="card-body mx-auto">
         <h5 class="card-title" id="titulod">ACCESO<br>
 MULTIDISPOSITIVO</h5>
@@ -30,7 +30,7 @@ internet en tiempo real.
   </div>
   <div class="col-sm-4">
     <div class="card border-0">
-      <img src="img/punto/grafica.png" class=" mx-auto" alt="..." >
+      <img src="img/punto/grafica.png" class="mx-auto " alt="..." >
       <div class="card-body mx-auto">
         <h5 class="card-title" id="titulod">DASHBOARD<br>
 INTELIGENTE</h5>

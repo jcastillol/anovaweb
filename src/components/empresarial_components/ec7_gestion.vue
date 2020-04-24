@@ -5,7 +5,7 @@
          DE NUEVAS APERTURAS</h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconogestion.png"  >
+      <img src="img/empresarial/empresarial_iconogestion.png"  class=" mx-auto" >
      
 <br>
 <br>
@@ -24,14 +24,14 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconogestion1.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconogestion1.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Calendario de actividades</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconogestion2.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconogestion2.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Asignación de tareas por perfil</p>       
         </div>
       </div>
@@ -46,7 +46,7 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconogestion3.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconogestion3.png" alt="..." class="mb-1 mx-auto"  >
           <p id="titulol">Gestión de presupuestos</p>        
         </div>
       </div>
@@ -54,7 +54,7 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconogestion4.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconogestion4.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Lista de compras</p>        
         </div>
       </div>
@@ -62,7 +62,7 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconogestion5.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconogestion5.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Gestión de documentos Google Drive</p>       
        </div>
       </div>

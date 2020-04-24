@@ -4,7 +4,7 @@
     <h5  id="tituloa2">AUDITORÍA E INSPECCIÓN </h5>
 <br>
 <br>
-      <img src="img/empresarial/empresarial_iconoaudotoria.png"  >
+      <img src="img/empresarial/empresarial_iconoaudotoria.png"  class=" mx-auto">
      
 <br>
 <br>
@@ -23,14 +23,14 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Auditoria de calidad</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card h-100 bg-transparent border-0">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Auditoria de  procesos</p>        </div>
       </div>
     </div>
@@ -44,7 +44,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
     <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol"> Auditoria de servicios   </p>       
         </div>
       </div>
@@ -52,7 +52,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria4.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconoaudotoria4.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Solicitud de mantenimiento</p>        
        </div>
       </div>
@@ -60,7 +60,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
       <div class="col ">
       <div class="card h-100 bg-transparent border-0 ">
         <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1" >
+          <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1 mx-auto" >
           <p id="titulol">Check list de actividades diarias</p>       
         </div>
       </div>

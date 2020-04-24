@@ -12,7 +12,7 @@
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse  id="nav-collapse" is-nav>
-      <b-navbar-nav  >
+      <b-navbar-nav  class="text-center" >
    
         <b-nav-item class="pl-2" :to="{name: 'Puntodeventa'}"  > PUNTO DE VENTA</b-nav-item>
         <b-nav-item  class="pl-2" :to="{name: 'Empresarial' }"> EMPRESARIAL</b-nav-item>
@@ -23,7 +23,7 @@
           <b-button pill   size="md" id="buttonwha" variant="light" class="my-2 my-sm-0 ml-3" type="submit">
             <i class="fab fa-whatsapp"></i> ¡Escríbenos! </b-button>
      
-        <b-nav-item :to="{name: 'Acceso_anova'}"><i class="fas fa-sign-in-alt pl-3"></i> Acceder a ANOVA</b-nav-item>
+        <b-nav-item :to="{name: 'Acceso_anova'}"><i class="fas fa-sign-in-alt pl-3"></i> </b-nav-item>
 
 
 

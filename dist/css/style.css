@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+  @font-face
+  {
+    font-family: Sansation;
+    src: url('../fonts/Sansation_Regular.ttf');
+  }
+
+
+  html,
+body {
+  width: 100%;
+  height: 100%;
+  
+}
+#body
+  {
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    /* fix firefox can't set height smaller than content on flex item */
+    min-height: 0;
+       
+    text-align: center;
+  }
+
+ 
+  #header {
+   
+
+  height: auto;
+  max-width: 2000px;
+  background-size: 100% 100%;
+    background-position: center;
+  color:#fff;
+  }
+  #nav
+  {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    font-family: Sansation;
+    font-size: 14px; 
+  }
+
+  #footer
+  {
+    text-align: center;
+  }
+ 
+  #homerestaurantes
+ {
+     background-image:url('../img/home_fondo.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: auto;
+    background-size: 100% 100%;
+ 
+    color: #fff;
+    min-height: 120px;
+  }
+#tuinfo{
+  max-width:1920px;
+  background-image:url('../img/punto/pv_fondonubes.png');
+  background-repeat: no-repeat;
+    height: auto;
+    background-size: 100% 100%;
+    color: #fff;
+}
+#packcompleto{
+  max-width:1920px;
+  background-image:url('../img/precios/fondo_punto_de_venta.png');
+  background-repeat: no-repeat;
+    height: auto;
+    background-size: 100% 100%;
+    color: #fff;
+}
+
+
+#link
+{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 18px; 
+color: #fff;
+
+}
+
+  #titulohome
+  {
+    font-family: Sansation;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: min(9.3vw,40px); 
+  color: #fff;
+  font-weight: bold;
+
+  }
+  #subtitulohome
+  {
+    font-family: Sansation;
+    font-size: 24px; 
+    line-height: 45px;
+
+
+  }
+
+  #tituloa
+  {
+    font-family: Sansation;
+  font-size: 25px; 
+  font-weight: bold;
+  color: #2DBFF9;
+  line-height: 1;
+  }
+ 
+  #titulob
+    {
+  font-family: Sansation;
+  font-size: 25px; 
+  font-weight: bold;
+  color: #302CD1;
+  line-height: 1;
+
+  }
+  
+  #tituloa2
+  {
+    font-family: Sansation;
+  font-size: min(9.3vw,40px); 
+  font-weight: bold;
+  color: #2DBFF9;
+  }
+ 
+  #titulob2
+    {
+  font-family: Sansation;
+  font-size: min(9.3vw,40px); 
+  font-weight: bold;
+  color: #302CD1;
+  }
+  
+  #tituloc
+    {
+  font-family: Sansation;
+  font-size: min(4.8vw,18px); 
+  font-weight: bold;
+  columns: #000000;;
+  }
+
+ 
+
+
+#titulod
+    {
+  font-family: Sansation;
+  font-size: 22px; 
+  font-weight: bold;
+  color: #2DBFF9;;
+  }
+  
+#tituloe
+{
+font-family: Sansation;
+font-size: min(8vw,40px); 
+font-weight: bold;
+color: #302CD1;
+text-align: center;
+}
+#tituloe2
+{
+font-family: Sansation;
+font-size: 28px; 
+font-weight: bold;
+line-height: 22px;
+color: #000000;
+}
+#titulof
+{
+font-family: Sansation;
+font-size: 10px; 
+font-weight: bold;
+color: #302CD1;
+}
+  
+
+#tituloh
+{
+  font-family: Sansation;
+  font-size: min(8vw,40px); 
+color: #2DBFF9;
+font-weight: bold;
+
+}
+
+
+
+#tituloi
+{
+  font-family: Sansation;
+  font-size: 30px; 
+  color: #FFF;
+  line-height: 1;
+}
+#tituloj
+{
+  font-family: Sansation;
+  font-size: 30px; 
+  color: greenyellow;
+  line-height: 1;
+
+}
+
+#titulok
+  {
+font-family: Sansation;
+font-size: 18px; 
+font-weight: bold;
+color: #fff;
+}
+#titulol
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px; 
+  font-weight: bolder;
+  color: #5e6bef;
+  margin-top: 6%;
+}
+  #parrafo
+  {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px; 
+  color: #000000;
+  }
+  #parrafob
+  {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px; 
+  color: #000000;
+  }
+
+
+
+}
+#parrafoc
+{
+font-family: 'Montserrat', sans-serif;
+font-weight: lighter;
+font-size: 20px; 
+color: #fff;
+}
+#parrafod
+{
+font-family: 'Montserrat', sans-serif;
+font-size: 14px; 
+color: #302CD1;
+}
+
+ 
+  #linkf
+  {
+  font-family: Sansation;
+  font-size: 12px; 
+  color: #000000;
+  }
+
+
+  
+  
+  #logo{
+    width:150px;
+    
+  }
+  
+#card
+{
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+
+}
+  #cardprecios1
+  {
+    border-radius: 20px 20px 20px 20px;
+    border-left: 1px  #000000 solid;
+    width: 208px;
+    margin-right: 1px;
+
+    box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.3);
+
+  } 
+  #cardprecios2
+  {
+    border-radius: 20px 20px 20px 20px;
+    border-left: 1px  #000000 solid;
+    width: 200px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+
+  }
+  
+  .tab
+  {
+    color:rgba(240, 230, 230, 0.6);
+
+  }
+  .tabclick
+  {
+    color:#fff;
+    border-bottom: 2px solid white;
+  
+  }
+  .tab:hover {
+    color:#fff;
+    border-bottom: 2px solid white;
+  }
+
+  #form
+  {
+    max-width: 640px;
+    background-color: white;
+    border-radius: 40px;
+    height:174px;
+    box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+
+  
+  }
+
+  input[type=text] {
+  
+    padding: 12px 30px;
+    margin: 5px 0;
+    width: 90%;
+    height: 48.4px;
+    border-radius: 21.7px;
+    border: solid 1px #b2b2b2;
+    font-family: Sansation;
+    font-size: 22px;
+    text-align: left;
+    color: #b2b2b2;
+  }
+  
+  .button
+  {
+    width: 252px;
+    height: 60px;
+    font-family: sansation;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.16;
+    letter-spacing: normal;
+    border-radius: 30px;
+
+  }
+  }
+
+  #buttonwha
+  {  
+    color: #302CD1 ;
+
+  }
+
+  #buttonwha:hover
+  {        background-color: #302CD1;
+
+
+    color: white; 
+ 
+    border: 1px solid #302CD1;
+
+  }
+
+  .button1 {
+    background: rgba(0, 0, 0, 0);
+    color: white; 
+    border: 1px solid white;
+
+  }
+  
+  
+  .button:hover {
+  
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+  }
+  
+  .button2 {
+    background-color: #302CD1; 
+    color: #fff; 
+    border: 1px solid #302CD1;
+
+  }
+  .button3
+  {
+    background-color: #76c7f4; 
+    color: #fff; 
+    border: 1px solid #76c7f4;
+  }
+  
+ 
+
+ 
+  hr
+  {
+    border: 4px solid;
+  }
+  .espacio
+  {
+    background-color:rgba(0, 0, 0, 0);
+
+    width: 100px;
+    height: 85px;
+  }
+
+  .simovil
+  {
+    display: none;
+  }
+  @media (max-width: 576px) 
+  {
+  
+    .nomovil
+    {
+      display: none ;
+    } 
+    .simovil
+    {
+      display: inline ;
+    }  
+  
+  
+  }
+
+  @media (max-width: 1000px) 
+  {
+    #header
+    {
+      background-size: cover;
+    }
+    #homerestaurantes
+    {
+      background-size: cover;
+    }
+    #nav
+    {
+      display: inline;
+    }
+  
+   
+  }

@@ -21,7 +21,7 @@
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card rounded">
+  <div class="card d-lg-block d-md-none">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -36,36 +36,43 @@
 <br>
 
 <br>
-<div class="container text-center"  >
+<div class="container text-center"  style="max-width:1200px">
 
- <div class="card-group">
-  <div class="card border-0">
-    <div class="card-body">
-           <img src="img/home_wingman.png" class="card-img" >
-    </div>
-  </div>
-    <div class="card border-0">
-    <div class="card-body">
-                <img src="img/home_maschurro.png"  class="card-img">
-    </div>
-  </div>
-<div class="card border-0">
-    <div class="card-body">
-        <img src="img/home_lamezcalita.png" class="card-img">
-    </div>
-  </div>
-<div class="card border-0">
-    <div class="card-body">
-                <img src="img/home_bones.png" class="card-img">
-    </div>
-  </div>
-  <div class="card border-0">
-    <div class="card-body">
-                <img src="img/home_hampton.png" class="card-img" >
-    </div>
-  </div>
+
+  <div class="row row-cols-2 row-cols-lg-5 bg-transparent no-gutters justify-content-center ">
+    <div class="col">
+     
+           <img src="img/home_wingman.png" class="mx-auto mb-4" >
   
-</div>
+    </div>
+      <div class="col ">
+      
+                <img src="img/home_maschurro.png"  class="mx-auto mb-4">
+        
+      </div>
+      <div class="col ">
+
+        <img src="img/home_lamezcalita.png" class="mx-auto mb-4">
+      </div>
+ 
+ <div class="col ">
+
+                <img src="img/home_bones.png" class="mx-auto mb-4">
+      </div>
+
+      <div class="col ">
+
+                <img src="img/home_hampton.png" class="mx-auto mb-4" >
+      </div>
+
+    
+
+
+      </div>   
+
+
+  
+
 
 
 

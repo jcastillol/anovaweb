@@ -10,7 +10,7 @@
 
       <img src="img/punto/pv_dashboardweb.png"  alt="..." class="card-img" style="max-width:640px">
      
-    <h5  id="titulok">MODULO DE FACTURACIÓN CFDI 3.3</h5>
+    <h5  id="titulok">Dashboardweb</h5>
      <p id="parrafoc"> 
        Accede a toda tu información en cualquier momento, en cualquier lugar, con este módulo<br>
 de inteligencia de negocios, con reportes que te ayudan a la toma de desiciones acertadas.

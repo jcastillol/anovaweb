@@ -7,14 +7,8 @@
     </div>
     <div class="col-xl-5">
       <div class="card-body mt-3 bg-transparent text-center ">
-        <ul class="list-group list-group-flush bg-transparent  ">
-         
-    <li class="list-group-item border-0 bg-transparent ">
-      
-      <h5  class="card-title  " id="tituloj">¡  N  U  E  V  O  !</h5>
-      </li>
-    <li class="list-group-item border-0 bg-transparent   "> 
-       <h5  class="card-title " id="parrafod">AHORA PUEDES REALIZAR TUS FACTURAS</h5>
+      <h5   id="tituloj">¡  N  U  E  V  O  !</h5>
+       <h5  id="parrafod">AHORA PUEDES REALIZAR TUS FACTURAS</h5>
 <p  id="tituloe">MODULO DE </p>
 <p  id="tituloe2">FACTURACIÓN CFDI 3.3</p>
 
@@ -22,12 +16,9 @@
 <p  id="tituloc">$150 MXN MENSUALES</p>
 
 
-    <button class="button button2 ml-2">Compra ahora</button>
+    <button class="button button2 ">Compra ahora</button>
 
 
-    </li>
-    
-        </ul>
 
       </div>
     </div>
@@ -38,6 +29,6 @@
 </template>
 <script>
 export default {
-    name: 'prc1_precios'
+    name: 'prc1_nuevo'
 }
 </script>

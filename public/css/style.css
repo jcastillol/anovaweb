@@ -99,7 +99,7 @@ color: #fff;
   #subtitulohome
   {
     font-family: Sansation;
-    font-size: 24px; 
+    font-size: min(5.8vw,25px); 
     line-height: 45px;
 
 
@@ -108,8 +108,8 @@ color: #fff;
   #tituloa
   {
     font-family: Sansation;
-  font-size: 25px; 
-  font-weight: bold;
+    font-size: min(4.8vw,25px); 
+    font-weight: bold;
   color: #2DBFF9;
   line-height: 1;
   }
@@ -117,7 +117,7 @@ color: #fff;
   #titulob
     {
   font-family: Sansation;
-  font-size: 25px; 
+  font-size: min(4.8vw,25px); 
   font-weight: bold;
   color: #302CD1;
   line-height: 1;
@@ -127,7 +127,7 @@ color: #fff;
   #tituloa2
   {
     font-family: Sansation;
-  font-size: min(9.3vw,40px); 
+  font-size: min(7vw,40px); 
   font-weight: bold;
   color: #2DBFF9;
   }
@@ -135,7 +135,7 @@ color: #fff;
   #titulob2
     {
   font-family: Sansation;
-  font-size: min(9.3vw,40px); 
+  font-size: min(7vw,40px); 
   font-weight: bold;
   color: #302CD1;
   }
@@ -143,8 +143,8 @@ color: #fff;
   #tituloc
     {
   font-family: Sansation;
-  font-size: min(4.8vw,18px); 
-  font-weight: bold;
+  font-size: min(3.8vw,18px); 
+  font-weight: bolder;
   columns: #000000;;
   }
 
@@ -154,7 +154,7 @@ color: #fff;
 #titulod
     {
   font-family: Sansation;
-  font-size: 22px; 
+  font-size: min(4.11vw,22px); 
   font-weight: bold;
   color: #2DBFF9;;
   }
@@ -162,7 +162,7 @@ color: #fff;
 #tituloe
 {
 font-family: Sansation;
-font-size: min(8vw,40px); 
+font-size: min(7vw,40px); 
 font-weight: bold;
 color: #302CD1;
 text-align: center;
@@ -170,7 +170,7 @@ text-align: center;
 #tituloe2
 {
 font-family: Sansation;
-font-size: 28px; 
+font-size: min(5.51vw,28px); 
 font-weight: bold;
 line-height: 22px;
 color: #000000;
@@ -178,7 +178,7 @@ color: #000000;
 #titulof
 {
 font-family: Sansation;
-font-size: 10px; 
+font-size: min(2.32vw,10px); 
 font-weight: bold;
 color: #302CD1;
 }
@@ -187,7 +187,7 @@ color: #302CD1;
 #tituloh
 {
   font-family: Sansation;
-  font-size: min(8vw,40px); 
+  font-size: min(7vw,40px); 
 color: #2DBFF9;
 font-weight: bold;
 
@@ -198,14 +198,14 @@ font-weight: bold;
 #tituloi
 {
   font-family: Sansation;
-  font-size: 30px; 
+  font-size: min(5.97vw,30px); 
   color: #FFF;
   line-height: 1;
 }
 #tituloj
 {
   font-family: Sansation;
-  font-size: 30px; 
+  font-size: min(5.97vw,30px); 
   color: greenyellow;
   line-height: 1;
 
@@ -214,28 +214,28 @@ font-weight: bold;
 #titulok
   {
 font-family: Sansation;
-font-size: 18px; 
+font-size: min(3.65vw,18px); 
 font-weight: bold;
 color: #fff;
 }
 #titulol
 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px; 
-  font-weight: bolder;
+  font-size: min(3.65vw,18px); 
+  font-weight: bold;
   color: #5e6bef;
   margin-top: 6%;
 }
   #parrafo
   {
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px; 
+  font-size: min(3.65vw,18px); 
   color: #000000;
   }
   #parrafob
   {
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px; 
+  font-size: min(3.65vw,18px); 
   color: #000000;
   }
 
@@ -246,13 +246,13 @@ color: #fff;
 {
 font-family: 'Montserrat', sans-serif;
 font-weight: lighter;
-font-size: 20px; 
+font-size: min(3.65vw,18px); 
 color: #fff;
 }
 #parrafod
 {
 font-family: 'Montserrat', sans-serif;
-font-size: 14px; 
+font-size: min(3.25vw,18px); 
 color: #302CD1;
 }
 
@@ -260,7 +260,7 @@ color: #302CD1;
   #linkf
   {
   font-family: Sansation;
-  font-size: 12px; 
+  font-size: min(3.65vw,18px); 
   color: #000000;
   }
 
@@ -398,7 +398,15 @@ color: #302CD1;
   }
   
  
-
+.iconoempresarial
+{
+  max-width: 135px;
+}
+.imagenpunto
+{
+  max-width: 220px;
+max-height: 200px;
+}
  
   hr
   {
@@ -445,6 +453,13 @@ color: #302CD1;
     {
       display: inline;
     }
-  
+    .nomovil
+    {
+      display: none ;
+    } 
+    .simovil
+    {
+      display: inline ;
+    }  
    
   }

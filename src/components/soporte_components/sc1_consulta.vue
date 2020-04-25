@@ -2,8 +2,8 @@
     <div class="container text-center">
 <p  id="tituloe">Consulta los siguientes manuales</p>
 <br>
-    <div class="row">
-  <div class="col-sm-4">
+    <div class="row row-cols-1 row-cols-lg-3 bg-transparent  justify-content-center">
+  <div class="col">
     <div class="card border-0">
       <img src="img/soporte/soporte_boton1.png" class="mx-auto" alt="..." >
       <div class="mx-auto">
@@ -15,7 +15,7 @@ empezar a operar tu  restaurante
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <div class="col">
     <div class="card border-0">
       <img src="img/soporte/soporte_boton2.png" class="mx-auto" alt="..." >
       <div class=" mx-auto">
@@ -28,7 +28,7 @@ seguimiento en inventario.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <div class="col">
     <div class="card border-0">
       <img src="img/soporte/soporte_boton3.png" class="mx-auto" alt="..." >
       <div class=" mx-auto">

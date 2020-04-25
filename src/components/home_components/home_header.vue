@@ -3,7 +3,7 @@
   <div class="row no-gutters">
    
     <div class="col-lg-6">
-      <div class="card-body  text-center text-md-left bg-transparent ">
+      <div class="card-body  text-center text-lg-left bg-transparent ">
          
       
  <p  id="titulohome">  Controlar tu restaurante <br> nunca fue tan facil</p> 

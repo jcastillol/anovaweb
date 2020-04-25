@@ -1,13 +1,13 @@
 <template>
-    <div class="card mb-5 bg-transparent border-0  "   >
 
-  <div class="row ">
-    <div class="col-md-6 ">
-      <img src="img/punto/pv_laptop.png" class="card-img puntoimg nomovil " >
+<div class="card mb-3 mx-auto bg-transparent border-0 " >
+  <div class="row no-gutters">
+   <div class="col-md-6 nomovil ">
+      <img src="img/punto/pv_laptop.png" class="card-img puntoimg  " >
     </div>
-    <div class="col-md-6">
-      <div class="card-body bg-transparent text-center text-md-right ">
-              
+    <div class="col-lg-6">
+                     <div class="card-body  text-center text-lg-right bg-transparent ">
+
       <h5  id="titulohome">ANOVA Punto de venta</h5>
  <br>
       <h5   id="parrafoc">
@@ -23,16 +23,10 @@ Dejanos a nosotros la administración </h5>
 
  </div>
 
-
-
-        
-
-    
-
       </div>
     </div>
   </div>
-</div>
+  </div>
 </template>
 <script>
 export default {

@@ -17,28 +17,28 @@ aumenta la productividad y control de tus procesos.
 <br>
 <br>
 
-     <div class="container text-center"   style="max-width:800px;">
+     <div class="container text-center"   >
 
-<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters" >
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center" >
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones1.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card  bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones1.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Producción y control de materia prima</p>        </div>
       </div>
     </div>
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones2.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones2.png" alt="..." class="mb-1 card-img iconoempresarial " >
           <p id="titulol">Control de inventarios en corporativo y  sucursales</p>       
       </div>
       </div>
     </div>
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones3.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card  bg-transparent border-0">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones3.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Gestión global de menús y recetas</p>       
         </div>
       </div>
@@ -46,31 +46,30 @@ aumenta la productividad y control de tus procesos.
   
     
     </div>
-     </div>
-          <div class="container text-center"   style="max-width:800px;">
+     
 
 
-<div class="row row-cols-2 row-cols-md-3 bg-transparent ">
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center ">
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones4.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card  bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones4.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Calendario Google</p>       
         </div>
       </div>
     </div>
       <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones5.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card  bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones5.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Integración con Google Drive</p>        
         </div>
       </div>
       </div>
       <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconooperaciones6.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card  bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconooperaciones6.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Mantenimiento de instalaciones y equipamiento
           </p>        
         </div>

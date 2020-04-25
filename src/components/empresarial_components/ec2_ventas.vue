@@ -17,41 +17,39 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
 <br>
 <br>
 
-     <div class="container text-center"   style="max-width:400px;">
+     <div class="container text-center"   >
 
-<div class="row row-cols-2 row-cols-md-2 bg-transparent " >
+<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters  justify-content-center" >
     <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
-          <img src="img/empresarial/empresarial_iconoventas1.png" alt="..." class="mb-1 card-img" >
+          <img src="img/empresarial/empresarial_iconoventas1.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Pago de regalías y cuotas</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card bg-transparent border-0">
         <div class="card-body ">
-          <img src="img/empresarial/empresarial_iconoventas2.png" alt="..." class="mb-1  card-img" >
+          <img src="img/empresarial/empresarial_iconoventas2.png" alt="..." class="mb-1  card-img iconoempresarial" >
           <p id="titulol">CRM</p>        </div>
       </div>
     </div>
     
     </div>
-     </div>
-          <div class="container text-center"   style="max-width:600px;">
 
 
-<div class="row row-cols-2 row-cols-md-3 bg-transparent ">
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters  justify-content-center ">
     <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
-          <img src="img/empresarial/empresarial_iconoventas3.png" alt="..." class="mb-1  card-img" >
+          <img src="img/empresarial/empresarial_iconoventas3.png" alt="..." class="mb-1  card-img iconoempresarial" >
           <p id="titulol">Reporte de ventas multisucursales <br> </p>        </div>
       </div>
     </div>
       <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
-          <img src="img/empresarial/empresarial_iconoventas4.png" alt="..." class="mb-1  card-img" >
+          <img src="img/empresarial/empresarial_iconoventas4.png" alt="..." class="mb-1  card-img iconoempresarial" >
           <p id="titulol">Punto
 de venta</p>        </div>
       </div>
@@ -59,7 +57,7 @@ de venta</p>        </div>
       <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
-          <img src="img/empresarial/empresarial_iconoventas5.png" alt="..." class="mb-1  card-img" >
+          <img src="img/empresarial/empresarial_iconoventas5.png" alt="..." class="mb-1  card-img iconoempresarial" >
           <p id="titulol">Lista de precios
 por sucursal</p>        </div>
       </div>

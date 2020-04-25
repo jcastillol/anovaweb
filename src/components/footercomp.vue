@@ -3,25 +3,29 @@
 
       <div class="container mt-4" style="justify-content:center;max-width:400px">
  
-       <div class="card-group">
-  <div class="card border-0">
-    <div class="card-body">
-           <img src="img/home_facebook.png" class="card-img" alt="..." style="width:30px" >
-    </div>
-  </div>
-    <div class="card border-0">
-    <div class="card-body">
-  <img src="img/home_youtube.png" class="card-img" alt="..." style="width:30px">
+    
 
+ <div class="row row-cols-3 bg-transparent no-gutters justify-content-center ">
+    <div class="col">
+     
+           <img src="img/home_facebook.png" class="card-img" alt="..." style="width:40px" >
+  
     </div>
-  </div>
-  <div class="card border-0">
-    <div class="card-body">
-        <img src="img/home_instagram.png" class="card-img" alt="..." style="width:30px">
+      <div class="col ">
+      
+  <img src="img/home_youtube.png" class="card-img" alt="..." style="width:40px">
+        
+      </div>
+      <div class="col ">
 
-    </div>
-  </div>
-</div>
+        <img src="img/home_instagram.png" class="card-img" alt="..." style="width:40px">
+      </div>
+ 
+
+
+
+      </div>   
+
        
   
         </div>

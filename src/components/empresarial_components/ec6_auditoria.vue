@@ -17,50 +17,49 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
 <br>
 <br>
 
-     <div class="container text-center"   style="max-width:600px;">
+     <div class="container text-center"   >
 
-<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters" >
+<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters justify-content-center" >
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Auditoria de calidad</p>        </div>
       </div>
     </div>
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Auditoria de  procesos</p>        </div>
       </div>
     </div>
     
     </div>
-     </div>
-          <div class="container text-center"   style="max-width:800px;">
+   
 
 
-<div class="row row-cols-2 row-cols-md-3 bg-transparent ">
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center ">
     <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol"> Auditoria de servicios   </p>       
         </div>
       </div>
     </div>
       <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria4.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconoaudotoria4.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Solicitud de mantenimiento</p>        
        </div>
       </div>
       </div>
       <div class="col ">
-      <div class="card h-100 bg-transparent border-0 ">
-        <div class="card-body mx-auto">
-          <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1 mx-auto" >
+      <div class="card bg-transparent border-0 ">
+        <div class="card-body ">
+          <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Check list de actividades diarias</p>       
         </div>
       </div>

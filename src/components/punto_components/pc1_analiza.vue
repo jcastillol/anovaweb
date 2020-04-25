@@ -6,7 +6,7 @@
 <br>
 <br>
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
-  <div class="row ">
+  <div class="row no-gutters ">
      <div class="col-md-7 order-md-5">
       <img src="img/punto/pv_dashboardgerencial.png" class="card-img"  style="max-width:765px">
     </div>

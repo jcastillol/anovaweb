@@ -29,7 +29,7 @@ body {
   #nav {
    
 
-  height: 120px;
+  height: auto;
   max-width: 2000px;
   background-size: 100% 100%;
     background-position: center;
@@ -498,6 +498,7 @@ max-height: 200px;
     #nav
     {
       display: inline;
+      background-image: linear-gradient(to right, #2dbff9 , #6607e0 );
     }
     .nomovil
     {

@@ -54,7 +54,7 @@ window.onscroll = function() {
   if (prevScrollpos > currentScrollPos ) {
     document.getElementById("nav").style.top = "0";
                                 document.getElementById("nav").style.backgroundImage = "initial";
-    if(document.body.scrollTop > 120 ||document.documentElement.scrollTop > 120){
+    if(document.body.scrollTop > 120 || document.documentElement.scrollTop > 120){
             document.getElementById("nav").style.backgroundImage = "linear-gradient(to right, #2dbff9 , #6607e0 )";
     }
 
@@ -62,7 +62,6 @@ window.onscroll = function() {
     if (widthscreen > 1000){
     document.getElementById("nav").style.top = "-120px";
     }
-                document.getElementById("nav").style.backgroundImage = "linear-gradient(to right, #2dbff9 , #6607e0 )";
 
   }
   prevScrollpos = currentScrollPos;

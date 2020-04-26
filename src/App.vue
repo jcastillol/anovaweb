@@ -62,6 +62,8 @@ window.onscroll = function() {
     if (widthscreen > 1000){
     document.getElementById("nav").style.top = "-120px";
     }
+                document.getElementById("nav").style.backgroundImage = "linear-gradient(to right, #2dbff9 , #6607e0 )";
+
   }
   prevScrollpos = currentScrollPos;
 }

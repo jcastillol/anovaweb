@@ -4,10 +4,10 @@
     <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body">
-      <img src="img/punto/mapa.png" class="card-img imagenpunto " alt="..."  >
-          <h5 class="card-title" id="titulod">REPORTES <br>
+      <img src="img/punto/pv_iconomapa.png" class="card-img imagenpunto mb-2" alt="..."  >
+          <h5  id="titulod">REPORTES <br>
 MULTISUCURSAL</h5>
-        <p class="card-text" id="parrafob">
+        <p  id="parrafob">
           Visualiza y compara con gráficos el rendimiento de todas tus 
 sucursales o franquicias.
         </p>    
@@ -17,10 +17,10 @@ sucursales o franquicias.
       <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body">
-      <img src="img/punto/pantallitas.png" class="card-img imagenpunto"  alt="..." />
-       <h5 class="card-title" id="titulod">ACCESO<br>
+      <img src="img/punto/pv_iconomultidispositivo.png" class="card-img imagenpunto mb-2"  alt="..." />
+       <h5  id="titulod">ACCESO<br>
 MULTIDISPOSITIVO</h5>
-        <p class="card-text" id="parrafob">
+        <p id="parrafob">
            Accede a toda tu información desde cualquier dispositivo con acceso a 
 internet en tiempo real.
            </p>       
@@ -30,10 +30,10 @@ internet en tiempo real.
       <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body">
-      <img src="img/punto/grafica.png" class="card-img imagenpunto" alt="..." >
-          <h5 class="card-title" id="titulod">DASHBOARD<br>
+      <img src="img/punto/pv_iconografica.png" class="card-img imagenpunto mb-2" alt="..." >
+          <h5  id="titulod">DASHBOARD<br>
 INTELIGENTE</h5>
-        <p class="card-text" id="parrafob">
+        <p id="parrafob">
           Optimiza tu  potencial con el panel de reportes que analiza tus datos y te da 
 recomendaciones.
         </p>       

@@ -13,7 +13,7 @@ DE TU RESTAURANTE </p>
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-right">
-      <h5   id="tituloa">SEGURIDAD </h5>
+      <h5   id="tituloa3">SEGURIDAD </h5>
             <h5   id="titulob">EN TU NEGOCIO</h5>
       <h5  id="tituloc">PERFILES DE USUARIOS</h5>
       <p  id="parrafo">
@@ -38,7 +38,7 @@ gerente, capitán de meseros, mesero y personalizarlos.
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-left">
-      <h5   id="tituloa">QUE NUNCA</h5>
+      <h5   id="tituloa3">QUE NUNCA</h5>
             <h5  id="titulob">TE FALTE DINERO</h5>
       <h5   id="tituloc">CORTE DE CAJA</h5>
       <p  id="parrafo">

@@ -45,13 +45,7 @@ tus múltiples sucursales como de tu corporativo.
         </div>
       </div>
     </div>
-  
-    
-    </div>
-
-
-<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters justify-content-center ">
-      <div class="col ">
+   <div class="col ">
       <div class="card bg-transparent border-0">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconocapitalhumano4.png" alt="..." class="mb-1 card-img iconoempresarial"  >
@@ -67,11 +61,7 @@ tus múltiples sucursales como de tu corporativo.
         </div>
       </div>
     </div>
-     </div>
-    
-
-<div class="row row-cols-2 row-cols-md-4 bg-transparent no-gutters justify-content-center " >
-    <div class="col ">
+       <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconocapitalhumano6.png" alt="..." class="mb-1 card-img iconoempresarial " >
@@ -100,8 +90,12 @@ tus múltiples sucursales como de tu corporativo.
         </div>
       </div>
     </div>
-    
     </div>
+
+
+
+    
+
      </div>
 
 

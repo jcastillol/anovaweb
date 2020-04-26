@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <home_header/>
                    <h5 class="espacio"></h5>
 
 <hc1_visualiza/>
@@ -32,6 +33,7 @@
 
 <script>
 
+import home_header from '@/components/home_components/home_header.vue'
 
 import hc1_visualiza from '@/components/home_components/hc1_visualiza.vue'
 import hc2_restaurantes from '@/components/home_components/hc2_restaurantes.vue'
@@ -45,6 +47,7 @@ import hc7_procesos from '@/components/home_components/hc7_procesos.vue'
 export default {
   name: 'Home',
   components: {
+    home_header,
     hc1_visualiza,
     hc2_restaurantes,
     hc3_porque,

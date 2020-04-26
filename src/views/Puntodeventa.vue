@@ -20,7 +20,6 @@
 
 <pc5_tuinfo></pc5_tuinfo>
 <h5 class="espacio"></h5>
-<h5 class="espacio"></h5>
 
 <pc6_reportes></pc6_reportes>
 <h5 class="espacio"></h5>

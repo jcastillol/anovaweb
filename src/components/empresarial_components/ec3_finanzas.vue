@@ -49,19 +49,12 @@ y autofacturación</p>        </div>
           <p id="titulol">Control de gastos</p>        </div>
       </div>
     </div>
-    
-    </div>
- 
-
-<div class="row row-cols-2 row-cols-md-3 bg-transparent  no-gutters justify-content-center">
-    <div class="col ">
-      <div class="card  bg-transparent border-0 ">
+    <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconofinanzas5.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Gestión de compras</p>       
         </div>
       </div>
-    </div>
       <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
@@ -70,7 +63,7 @@ y autofacturación</p>        </div>
         </div>
       </div>
       </div>
-      <div class="col ">
+        <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body">
           <img src="img/empresarial/empresarial_iconofinanzas7.png" alt="..." class="mb-1 card-img iconoempresarial" >
@@ -78,10 +71,11 @@ y autofacturación</p>        </div>
           </p>        
         </div>
       </div>
-      </div>   
+      </div> 
+    </div>
+ 
 
-
-   </div>  
+ 
      </div>
 
 

@@ -43,13 +43,6 @@ aumenta la productividad y control de tus procesos.
         </div>
       </div>
     </div>
-  
-    
-    </div>
-     
-
-
-<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center ">
     <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body ">
@@ -75,9 +68,12 @@ aumenta la productividad y control de tus procesos.
         </div>
       </div>
       </div>   
+    
+    </div>
+     
 
 
-   </div>  
+ 
      </div>
 
 

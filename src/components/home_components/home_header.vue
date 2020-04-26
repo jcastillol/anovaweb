@@ -1,4 +1,5 @@
 <template>
+<div class="container-fluid" id="homeheader">
     <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
    
@@ -19,6 +20,7 @@
       <img src="img/home/home_monitor.png" class="card-img mt-3 " alt="..." >
     </div>
   </div>
+</div>
 </div>
 </template>
 <script>

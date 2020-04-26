@@ -4,20 +4,12 @@
   <h5 id="tituloc">PODRAS OPERAR Y ADMINISTRAR TODO TU NEGOCIO</h5>
 <h5  id="tituloc"> ADMINISTRAR TODO TU NEGOCIO</h5>
 
-<div class="card border-0" >
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item border-0"> 
-</li>
-    <li class="list-group-item border-0">
+     <img src="img/home/home_ilustracionteam.png" class="card-img" alt="" srcset="">
+
     <p class="card-text text-center" id="parrafo">Un equipo de expertos ANOVA está para ayudarte a resolver cualquier duda 
 y darte soporte  en la operción  y administración de tu restaurante.  </p>
 
     <button class="button button2 ml-2">Ir a Soporte</button>
-
-    </li>
-    
-  </ul>
-</div>
 
 </div>
 </template>

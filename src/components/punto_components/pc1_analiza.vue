@@ -6,13 +6,13 @@
 <br>
 <br>
 <div class="card mb-5 mx-auto bg-transparent border-0 ">
-  <div class="row no-gutters ">
+  <div class="row ">
      <div class="col-md-7 order-md-5">
       <img src="img/punto/pv_dashboardgerencial.png" class="card-img"  style="max-width:765px">
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-right">
-      <h5   id="tituloa">COMPARA</h5>
+      <h5   id="tituloa3">COMPARA</h5>
             <h5   id="titulob">TUS METRICAS</h5>
       <h5   id="tituloc">DASHBOARD GERENCIAL</h5>
       <p class="card-text" id="parrafo">
@@ -37,7 +37,7 @@
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-left">
-      <h5    id="tituloa">CONTROLA</h5>
+      <h5    id="tituloa3">CONTROLA</h5>
             <h5  id="titulob">TUS INSUMOS</h5>
       <h5   id="tituloc">ASISTENTE DE INVENTARIOS</h5>
       <p id="parrafo">
@@ -60,8 +60,3 @@ export default {
     name:'pc1_analiza'
 }
 </script>
-<style scoped>
- #tituloa{
-   margin-top: 30%;
- }
-</style>

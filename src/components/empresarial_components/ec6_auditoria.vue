@@ -19,7 +19,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
 
      <div class="container text-center"   >
 
-<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters justify-content-center" >
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center" >
     <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
@@ -34,13 +34,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
           <p id="titulol">Auditoria de  procesos</p>        </div>
       </div>
     </div>
-    
-    </div>
-   
-
-
-<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center ">
-    <div class="col ">
+      <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1 card-img iconoempresarial" >
@@ -64,9 +58,12 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
         </div>
       </div>
       </div>   
+    
+    </div>
+   
 
 
-   </div>  
+
      </div>
 
 

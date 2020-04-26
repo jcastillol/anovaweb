@@ -13,6 +13,7 @@ body {
   height: 100%;
   
 }
+
 #body
   {
     display: flex;
@@ -25,14 +26,15 @@ body {
   }
 
  
-  #header {
+  #menu {
    
 
-  height: auto;
+  height: 100px;
   max-width: 2000px;
   background-size: 100% 100%;
     background-position: center;
   color:#fff;
+  background: rgba(0, 0, 0, 0);
   }
   #nav
   {
@@ -42,12 +44,35 @@ body {
     font-family: Sansation;
     font-size: 14px; 
   }
+  #iconoacceder
+  {
+    width: 40%;
+    opacity: .5;
+  }
+  #iconoacceder:hover
+  {
+    opacity: 1;
 
+  }
   #footer
   {
     text-align: center;
   }
  
+
+#homeheader
+{
+  background-image:url('../img/header/Home.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
+
+}
+
+
   #homerestaurantes
  {
      background-image:url('../img/home_fondo.png');
@@ -64,6 +89,7 @@ body {
   background-image:url('../img/punto/pv_fondonubes.png');
   background-repeat: no-repeat;
     height: auto;
+    background-position: center;
     background-size: 100% 100%;
     color: #fff;
 }
@@ -130,6 +156,15 @@ color: #fff;
   font-size: min(7vw,40px); 
   font-weight: bold;
   color: #2DBFF9;
+  }
+  #tituloa3
+  {
+    font-family: Sansation;
+    font-size: min(4.8vw,25px); 
+    font-weight: bold;
+  color: #2DBFF9;
+  line-height: 1;
+    margin-top: 30%;
   }
  
   #titulob2
@@ -215,7 +250,7 @@ font-weight: bold;
   {
 font-family: Sansation;
 font-size: min(3.65vw,18px); 
-font-weight: bold;
+font-weight: bolder;
 color: #fff;
 }
 #titulol
@@ -400,7 +435,7 @@ color: #302CD1;
  
 .iconoempresarial
 {
-  max-width: 135px;
+  max-width: 130px;
 }
 .imagenpunto
 {
@@ -441,6 +476,15 @@ max-height: 200px;
 
   @media (max-width: 1000px) 
   {
+    #homeheader
+    {
+      background-image:url('../img/header/Acceso_anova.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: auto;
+  background-size: 100% 100%;
+  color: #fff;
+    }
     #header
     {
       background-size: cover;
@@ -462,4 +506,8 @@ max-height: 200px;
       display: inline ;
     }  
    
+    #tituloa3
+  {
+    margin-top: 0%;
+  }
   }

@@ -13,10 +13,10 @@ DE TUS ÁREAS </p>
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-right">
-      <h5  class="card-title"  id="tituloa">AGILIZA </h5>
-            <h5  class="card-title" id="titulob">TU SERVICIO</h5>
-      <h5  class="card-title" id="tituloc">MAPA DE MESAS</h5>
-      <p class="card-text" id="parrafo">
+      <h5    id="tituloa3">AGILIZA </h5>
+            <h5   id="titulob">TU SERVICIO</h5>
+      <h5  id="tituloc">MAPA DE MESAS</h5>
+      <p id="parrafo">
        Toda la información de tus mesas en una sola pantalla,
 optimizada para hacer todas las operaciones más rápidas, 
 desde dividir una mesa hasta pagar una cuenta.
@@ -38,10 +38,10 @@ desde dividir una mesa hasta pagar una cuenta.
     </div>
     <div class="col-md-5  " >
       <div class="card-body text-center text-md-left">
-      <h5  class="card-title  "  id="tituloa">PERSONALIZA</h5>
-            <h5  class="card-title" id="titulob">TUS COMANDAS</h5>
-      <h5  class="card-title" id="tituloc">COMANDERO RAPIDO</h5>
-      <p class="card-text" id="parrafo">
+      <h5   id="tituloa3">PERSONALIZA</h5>
+            <h5   id="titulob">TUS COMANDAS</h5>
+      <h5   id="tituloc">COMANDERO RAPIDO</h5>
+      <p  id="parrafo">
      Selecciona los platillos y bebidas que piden tus 
 comensales para que se impriman inmediatamente 
 en la barra y la cocina.

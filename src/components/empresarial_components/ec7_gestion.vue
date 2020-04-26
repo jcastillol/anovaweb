@@ -20,7 +20,7 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
 
      <div class="container text-center"   >
 
-<div class="row row-cols-2 row-cols-md-2 bg-transparent no-gutters justify-content-center" >
+<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center" >
     <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body">
@@ -36,13 +36,7 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
         </div>
       </div>
     </div>
-    
-    </div>
-    
-
-
-<div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters justify-content-center ">
-    <div class="col ">
+        <div class="col ">
       <div class="card  bg-transparent border-0 ">
         <div class="card-body">
           <img src="img/empresarial/empresarial_iconogestion3.png" alt="..." class="mb-1 card-img iconoempresarial" >
@@ -65,10 +59,12 @@ minimiza los riesgos elaborando presupuestos para la  remodelación o apertura d
           <p id="titulol">Gestión de documentos Google Drive</p>       
        </div>
       </div>
-      </div>   
+      </div>  
+    </div>
+    
 
 
-   </div>  
+ 
      </div>
 
 

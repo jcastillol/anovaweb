@@ -1,10 +1,10 @@
 <template>
 
 
- <div class="card mb-3 mx-auto bg-transparent border-0 " >
+ <div class="card mb-3 mx-auto bg-transparent border-0  " >
   <div class="row no-gutters">
-   <div class="col-lg-6  ">
-        <img src="img/empresarial/header.png" width="640px" class=" card-img" >
+   <div class="col-lg-6  mt-4 ">
+        <img src="img/empresarial/header.png" width="640px" class=" card-img " >
     </div>
     <div class="col-lg-6">
       <div class="card-body  text-center text-lg-right bg-transparent ">
@@ -26,8 +26,10 @@
 </h5>
    
   <button class="button button1 mb-2">Agendar demostración</button>
-        <button class="button button2 ml-2">Solicitar cotización</button>
- 
+        <button class="button button2 ml-2 ">Solicitar cotización</button>
+ <br>
+  <br>
+
       </div>
     </div>
      

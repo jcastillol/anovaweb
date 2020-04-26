@@ -53,7 +53,7 @@ window.onscroll = function() {
   var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos ) {
     document.getElementById("nav").style.top = "0";
-                                document.getElementById("nav").style.backgroundImage = "initial";
+   document.getElementById("nav").style.backgroundImage = "initial";
     if(document.body.scrollTop > 120 || document.documentElement.scrollTop > 120){
             document.getElementById("nav").style.backgroundImage = "linear-gradient(to right, #2dbff9 , #6607e0 )";
     }

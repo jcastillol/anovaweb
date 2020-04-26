@@ -60,7 +60,7 @@ window.onscroll = function() {
     }
 
   } else {
-    document.getElementById("menu").style.top = "-100px";
+    document.getElementById("menu").style.top = "-110px";
 
   }
   prevScrollpos = currentScrollPos;

@@ -26,27 +26,25 @@ body {
   }
 
  
-  #menu {
+  #nav {
    
 
-  height: 100px;
+  height: 120px;
   max-width: 2000px;
   background-size: 100% 100%;
     background-position: center;
   color:#fff;
   background: rgba(0, 0, 0, 0);
-  }
-  #nav
-  {
-    display: flex;
+  display: flex;
     justify-content: center;
     align-items:center ;
     font-family: Sansation;
     font-size: 14px; 
   }
+ 
   #iconoacceder
   {
-    width: 40%;
+    width: 25px;
     opacity: .5;
   }
   #iconoacceder:hover
@@ -461,6 +459,10 @@ max-height: 200px;
   }
   @media (max-width: 576px) 
   {
+  #nav
+  {
+    height: auto;
+  }
   
     .nomovil
     {

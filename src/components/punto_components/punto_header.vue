@@ -1,6 +1,6 @@
 <template>
 <div class="container-fluid" id="puntoheader">
-<div class="card mb-3 mx-auto bg-transparent border-0 " >
+<div class="card mb-3 mx-auto bg-transparent border-0 " style="max-width:1400px" >
   <div class="row no-gutters">
    <div class="col-md-6 nomovil ">
       <img src="img/punto/pv_laptop.png" class="card-img puntoimg  " >
@@ -15,7 +15,7 @@
 Dejanos a nosotros la administración </h5>
             <h5  id="parrafoc">y  dedicale mas tiempo a tus clientes</h5>
 <br>
-    <button class="button button1 mb-2 ml-2">Descargar demos</button>
+    <button class="button button1 mb-2 ml-2">Descargar demo</button>
         <button class="button button2 ml-2">Precios</button>
  <div class="text-center">
       <img src="img/punto/pv_cerebro.png" class="card-img" style="max-width:300px" >

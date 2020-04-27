@@ -1,7 +1,7 @@
 <template>
     <div>
 <precios_header/>
-<br>
+<h5 class="espacio"></h5>
 <prc1_nuevo> </prc1_nuevo>
 <br>
 <br>
@@ -21,6 +21,9 @@
 
 <hc6_preguntas/>
 <br>
+<br>
+<br>
+
 
     </div>   
 </template>

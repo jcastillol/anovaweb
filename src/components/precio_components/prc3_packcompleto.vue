@@ -3,7 +3,7 @@
  <br>
   <br>
 
-  <p  id="tituloi">Cotiza tu paquete completo</p>
+  <p  id="tituloi">COTIZA TU PAQUETE COMPLETO</p>
 <div class="card  bg-transparent border-0" >
   <ul class="list-group bg-transparent list-group-flush">
     <li class="list-group-item border-0 bg-transparent "> 

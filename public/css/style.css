@@ -105,10 +105,9 @@ body {
   background-image:url('../img/header/Precios.png');
   background-position: center center;
   background-repeat: no-repeat;
-  height: 800px;
+  height: 900px;
   background-size: 100% 100%;
   padding-top: 100px;
-  color: #fff;
   display: flex;
   justify-content: center;
   align-items:center ;
@@ -133,7 +132,7 @@ body {
   background-image:url('../img/header/Acceso_anova.png');
   background-position: center center;
   background-repeat: no-repeat;
-  height: 400px;
+  height: 800px;
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
@@ -196,6 +195,7 @@ color: #fff;
     font-family: Sansation;
     font-size: min(5.8vw,25px); 
     line-height: 45px;
+    color: #fff;
 
 
   }
@@ -364,7 +364,7 @@ color: #302CD1;
   #linkf
   {
   font-family: Sansation;
-  font-size: min(3.65vw,18px); 
+  font-size: min(3.65vw,16px); 
   color: #000000;
   }
 
@@ -375,20 +375,20 @@ color: #302CD1;
     width:150px;
     
   }
-  
+
 #card
 {
   border-radius: 20px 20px 20px 20px;
   box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+  height: 280px;
 
 }
   #cardprecios1
   {
     border-radius: 20px 20px 20px 20px;
     border-left: 1px  #000000 solid;
-    width: 208px;
+    max-width: 208px;
     margin-right: 1px;
-
     box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.3);
 
   } 
@@ -396,16 +396,20 @@ color: #302CD1;
   {
     border-radius: 20px 20px 20px 20px;
     border-left: 1px  #000000 solid;
-    width: 200px;
+    max-width: 200px;
     margin-top: 10px;
+
     box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
 
   }
   
   .tab
-  {
+  {font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1; 
     color:rgba(240, 230, 230, 0.6);
-
+     width:200px;
   }
   .tabclick
   {
@@ -546,7 +550,7 @@ max-height: 200px;
 
   @media (max-width: 1000px) 
   {
-    #homeheader, #puntoheader, #empresarialheader, #soporteheader, #accesoheader
+    #homeheader, #puntoheader, #empresarialheader, #soporteheader, #accesoheader, #preciosheader
     {
       background-image:url('../img/header/Acceso_anova.png');
   background-position: center center;

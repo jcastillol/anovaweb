@@ -21,7 +21,7 @@ promociones, base de datos única de clientes, y la segmentación de clientes, a
 
 <div class="row row-cols-2 row-cols-md-3 bg-transparent no-gutters  justify-content-center" >
     <div class="col ">
-      <div class="card bg-transparent border-0 ">
+      <div class="card  border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoventas1.png" alt="..." class="mb-1 card-img iconoempresarial" >
           <p id="titulol">Pago de  <br> regalías y cuotas</p>        </div>

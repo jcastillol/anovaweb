@@ -31,7 +31,7 @@
         </div>
              <hr>
 
-  <div class="container" style="max-width:1080px;">
+  <div class="container" style="max-width:1400px;">
  
      <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">

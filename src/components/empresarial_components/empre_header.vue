@@ -4,7 +4,7 @@
 
    <h5 class="espacio"></h5>
 
- <div class="card mb-3 mx-auto bg-transparent border-0  " >
+ <div class="card mb-3 mx-auto bg-transparent border-0  "  style="max-width:1400px">
   <div class="row no-gutters">
    <div class="col-lg-6  mt-4 ">
         <img src="img/empresarial/header.png" width="640px" class=" card-img " >

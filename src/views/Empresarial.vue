@@ -20,6 +20,8 @@
    <ec7_gestion/>
     <h5 class="espacio"></h5>
    <ec8_cotizacion/>
+       <h5 class="espacio"></h5>
+
  </div>
  
 </template>

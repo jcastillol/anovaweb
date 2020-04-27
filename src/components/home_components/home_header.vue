@@ -1,6 +1,6 @@
 <template>
 <div class="container-fluid" id="homeheader">
-    <div class="card mb-3 mx-auto bg-transparent border-0 " >
+    <div class="card mb-3 mx-auto bg-transparent border-0 "  style="max-width:1400px">
   <div class="row no-gutters">
    
     <div class="col-lg-6">

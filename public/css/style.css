@@ -67,6 +67,9 @@ body {
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
 }
 #puntoheader
@@ -78,6 +81,9 @@ body {
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
 }
 #empresarialheader
@@ -89,6 +95,9 @@ body {
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
 }
 #preciosheader
@@ -100,6 +109,9 @@ body {
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
 }
 #soporteheader
@@ -111,6 +123,9 @@ body {
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
 }
 #accesoheader
@@ -118,10 +133,13 @@ body {
   background-image:url('../img/header/Acceso_anova.png');
   background-position: center center;
   background-repeat: no-repeat;
-  height: 800px;
+  height: 400px;
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 }
 
   #homerestaurantes
@@ -548,7 +566,7 @@ max-height: 200px;
     #nav
     {
       display: inline;
-      background-image: linear-gradient(to left, #2dbff9 , #6607e0 );
+      background-image: linear-gradient(to right, #2dbff9 , #6607e0 );
     }
     .nomovil
     {

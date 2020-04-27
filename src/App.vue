@@ -6,18 +6,18 @@
            
 <div class="container-fluid fixed-top"  id="nav" >
   <b-navbar bg-transparent toggleable="lg" class="px-auto mt-4" type="dark" >
-    <b-navbar-brand href="/"><img src="img/logoo blanco.png"  id="logo"></b-navbar-brand>
+    <b-navbar-brand :to="{ path: '/home'}" ><img src="img/logoo blanco.png"  id="logo"></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse  id="nav-collapse" is-nav>
       <b-navbar-nav  class="text-center" >
    
-        <b-nav-item class="pl-2" href="/puntodeventa" > PUNTO DE VENTA</b-nav-item>
-        <b-nav-item  class="pl-2" href="/empresarial" > EMPRESARIAL</b-nav-item>
-         <b-nav-item class="pl-2" href="/hardware"  >HARDWARE</b-nav-item>
-         <b-nav-item class="pl-2"  href="/precios"  >PRECIOS</b-nav-item>
-         <b-nav-item class="pl-2" href="/soporte"  >SOPORTE</b-nav-item>
+        <b-nav-item class="pl-2" :to="{ path: '/puntodeventa'}" > PUNTO DE VENTA</b-nav-item>
+        <b-nav-item  class="pl-2" :to="{ path: '/empresarial'}" > EMPRESARIAL</b-nav-item>
+         <b-nav-item class="pl-2" :to="{ path: '/hardware'}"   >HARDWARE</b-nav-item>
+         <b-nav-item class="pl-2"  :to="{ path: '/precios'}"   >PRECIOS</b-nav-item>
+         <b-nav-item class="pl-2" :to="{ path: '/soporte'}"   >SOPORTE</b-nav-item>
       
           <b-button pill   size="md" id="buttonwha" variant="light" class="my-2 my-sm-0 ml-3" type="submit">
             <i class="fab fa-whatsapp"></i> ¡Escríbenos! </b-button>

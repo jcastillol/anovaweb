@@ -1,5 +1,6 @@
 <template>
-    <div class="container text-center" id="soporteheader" >
+<div class="container-fluid" id="soporteheader">
+    <div class="container text-center" >
          <h5  id="titulohome">         
              <img src="img/play.png" >
             Centro de soporte ANOVA
@@ -12,6 +13,7 @@ en esta sección encontraras información que te será de gran ayuda
 <br>
          </p>
     </div>
+</div>
 </template>
 <script>
 export default {

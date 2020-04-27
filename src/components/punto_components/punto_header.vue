@@ -1,5 +1,5 @@
 <template>
-
+<div class="container-fluid" id="puntoheader">
 <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
    <div class="col-md-6 nomovil ">
@@ -25,6 +25,7 @@ Dejanos a nosotros la administración </h5>
 
       </div>
     </div>
+  </div>
   </div>
   </div>
 </template>

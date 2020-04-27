@@ -1,7 +1,6 @@
 <template>
     <div>
-      <br>
-<br>
+<precios_header/>
 <br>
 <prc1_nuevo> </prc1_nuevo>
 <br>
@@ -26,6 +25,7 @@
     </div>   
 </template>
 <script>
+import precios_header from '@/components/precio_components/precios_header.vue'
 
 import prc1_nuevo from '@/components/precio_components/prc1_nuevo.vue'
 import prc2_incluido from '@/components/precio_components/prc2_incluido.vue'
@@ -37,6 +37,7 @@ import hc6_preguntas from '@/components/home_components/hc6_preguntas.vue'
 export default {
   name: 'Precio',
   components: {
+    precios_header,
      prc1_nuevo,
      prc2_incluido,
      prc3_packcompleto,

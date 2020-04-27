@@ -1,4 +1,6 @@
 <template>
+<div class="container-fluid" id="preciosheader">
+<br>
     <div class="container border-0  bg-transparent"  style="max-width:600px;" >
 
 <ul class="nav justify-content-center mb-1 " >
@@ -106,11 +108,11 @@
   </transition>
 
      </div>
-
+</div>
 </template>
 <script>
 export default {
-    name: 'precio_header',
+    name: 'precios_header',
      data() {
       return {
         tab: true,

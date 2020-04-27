@@ -1,5 +1,8 @@
 <template>
 
+<div class="container-fluid" id="empresarialheader">
+
+   <h5 class="espacio"></h5>
 
  <div class="card mb-3 mx-auto bg-transparent border-0  " >
   <div class="row no-gutters">
@@ -34,6 +37,8 @@
     </div>
      
   </div>
+</div>
+
 </div>
 </template>
 <script>

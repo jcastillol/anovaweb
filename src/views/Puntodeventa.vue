@@ -1,5 +1,6 @@
 <template>
 <div>
+<punto_header/>
 <h5 class="espacio"></h5>
 
 <pc1_analiza></pc1_analiza>
@@ -33,6 +34,7 @@
 </div>
 </template>
 <script>
+import punto_header from '@/components/punto_components/punto_header.vue'
 
 import pc1_analiza from '@/components/punto_components/pc1_analiza.vue'
 import pc2_protege from '@/components/punto_components/pc2_protege.vue'
@@ -48,6 +50,7 @@ import pc7_mejora from '@/components/punto_components/pc7_mejora.vue'
 export default {
   name: 'Puntodeventa',
   components: {
+    punto_header,
     pc1_analiza,
     pc2_protege,
     pc3_agiliza,

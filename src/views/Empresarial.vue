@@ -1,6 +1,9 @@
 <template>
  <div>
-<br>
+   
+<empre_header/>
+   <h5 class="espacio"></h5>
+
 <ec1_comofunciona/>
    <h5 class="espacio"></h5>
    <ec2_ventas/>
@@ -22,6 +25,8 @@
 </template>
 
 <script>
+import empre_header from '@/components/empresarial_components/empre_header.vue'
+
 import ec1_comofunciona from '@/components/empresarial_components/ec1_comofunciona.vue'
 import ec2_ventas from '@/components/empresarial_components/ec2_ventas.vue'
 import ec3_finanzas from '@/components/empresarial_components/ec3_finanzas.vue'
@@ -35,6 +40,7 @@ import ec8_cotizacion from '@/components/empresarial_components/ec8_cotizacion.v
       name : 'empresarial',
      components:
      {
+       empre_header,
        ec1_comofunciona,
        ec2_ventas,
        ec3_finanzas,

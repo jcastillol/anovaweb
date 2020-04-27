@@ -34,7 +34,7 @@ body {
   background-size: 100% 100%;
     background-position: center;
   color:#fff;
-  background: rgba(0, 0, 0, 0);
+  background-image: rgba(0, 0, 0, 0);
   display: flex;
     justify-content: center;
     align-items:center ;
@@ -69,7 +69,60 @@ body {
   color: #fff;
 
 }
+#puntoheader
+{
+  background-image:url('../img/header/Empresarial.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
 
+}
+#empresarialheader
+{
+  background-image:url('../img/header/Empresarial.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
+
+}
+#preciosheader
+{
+  background-image:url('../img/header/Precios.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
+
+}
+#soporteheader
+{
+  background-image:url('../img/header/Soporte.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 400px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
+
+}
+#accesoheader
+{
+  background-image:url('../img/header/Acceso_anova.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  color: #fff;
+}
 
   #homerestaurantes
  {
@@ -459,10 +512,7 @@ max-height: 200px;
   }
   @media (max-width: 576px) 
   {
-  #nav
-  {
-    height: auto;
-  }
+  
   
     .nomovil
     {
@@ -478,7 +528,7 @@ max-height: 200px;
 
   @media (max-width: 1000px) 
   {
-    #homeheader
+    #homeheader, #puntoheader, #empresarialheader, #soporteheader, #accesoheader
     {
       background-image:url('../img/header/Acceso_anova.png');
   background-position: center center;
@@ -498,7 +548,7 @@ max-height: 200px;
     #nav
     {
       display: inline;
-      background-image: linear-gradient(to right, #2dbff9 , #6607e0 );
+      background-image: linear-gradient(to left, #2dbff9 , #6607e0 );
     }
     .nomovil
     {

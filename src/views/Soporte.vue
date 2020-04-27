@@ -1,5 +1,6 @@
 <template>
   <div>
+    <soporte_header/>
     <h5 class="espacio"></h5>
 <sc1_consulta/>
     <h5 class="espacio"></h5>
@@ -19,6 +20,7 @@
   </div>
 </template>
 <script>
+import soporte_header from '@/components/soporte_components/soporte_header.vue'
 
 import sc1_consulta from '@/components/soporte_components/sc1_consulta.vue'
 import sc2_instalacion from '@/components/soporte_components/sc2_instalacion.vue'
@@ -33,6 +35,7 @@ export default {
     name: 'soporte',
     components:
     {
+        soporte_header,
         sc1_consulta,
         sc2_instalacion,
         sc3_administracion,

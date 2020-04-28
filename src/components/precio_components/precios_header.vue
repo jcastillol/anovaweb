@@ -20,16 +20,16 @@
 <br>
 
 
-<div class="container text-center"  v-if="tab" style="max-width:400px; height:600px">
+<div class="container text-center"  v-if="tab" style="max-width:500px; height:600px">
 
 <div class="card-group border-0 "    >
   <div class="card border-0 " id="cardprecios1">
-    <img src="img/precios/precio_2.png" class="card-img-top   " alt="...">
+    <img src="img/precios/precio_planbasico.png" class="card-img-top   " alt="...">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
   </div>
   <div class="card  border-0 " id="cardprecios2">
-    <img src="img/precios/precio_1.png" class="card-img-top" alt="...">
+    <img src="img/precios/precio_planri.png" class="card-img-top" alt="...">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
   </div>
@@ -51,117 +51,46 @@
 <div class="row row-cols-2 row-cols-md-3 bg-transparent" >
     <div class="col mb-4">
       
-      <div class="card border-0 " id="card">        
-        <img src="img/precios/modulos_1.png" class="card-img-top " alt="..." >
-
-          <div class="card-header bg-primary">Header</div>
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
       <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <!-- <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
-          <p  id="parrafoa">Visualiza la centralización de ventas
-entre sucursales</p>        </div>
-    </div>
-    <div class="col mb-4">
-      
-      <div class="card border-0 " id="card">
-        <img src="img/precios/modulos_1.png" class="card-img-top" alt="..." >
+        <img src="img/precios/precio_moduloventas.png" class="card-img-top" alt="..." >
           <p  id="parrafoa">Visualiza la centralización de ventas
 entre sucursales</p>        </div>
     </div>
     <div class="col mb-4">
       <div class="card  border-0" id="card" >
-       <img src="img/precios/modulo_2.png" class="card-img-top" alt="..." >
-        <div class="card-body mx-auto">
+        <img src="img/precios/precio_modulofinanzas.png" class="card-img-top" alt="..." >
           <p class="card-text" id="parrafoc">Observa estados financieros y centraliza
 tus cuentas por pagar entre otros</p>        </div>
-      </div>
     </div>
     <div class="col mb-4">
       <div class="card  border-0" id="card" >
-      <img src="img/precios/modulo_3.png" class="card-img-top" alt="..." >
-        <div class="card-body mx-auto">
+        <img src="img/precios/precio_modulooperaciones.png" class="card-img-top" alt="..." >
           <p class="card-text" id="parrafoc">Vigila desde recetas hasta la
-distribucion en puntos de ventas</p>        </div>
+distribucion en puntos de ventas</p>        
       </div>
     </div>
     <div class="col mb-4">
       <div class="card  border-0" id="card" >
-              <img src="img/precios/modulo_4.png" class="card-img-top" alt="..." >
-        <div class="card-body mx-auto">
+        <img src="img/precios/precio_modulocapital.png" class="card-img-top" alt="..." >
           <p class="card-text" id="parrafoc">Lleva un seguimiento completo y 
-preciso de todos tus empleados</p>        </div>
+preciso de todos tus empleados</p>       
       </div>
     </div>
     <div class="col mb-4">
       <div class="card  border-0" id="card" >
-      <img src="img/precios/modulo_5.png" class="card-img-top" alt="..." >
-        <div class="card-body mx-auto">
+        <img src="img/precios/precio_moduloauditoria.png" class="card-img-top" alt="..." >
           <p class="card-text" id="parrafoc">Asegura la calidad y conciencia 
-de tu marca</p>        </div>
+de tu marca</p>        
       </div>
     </div>
     <div class="col mb-4">
       <div class="card  border-0" id="card" >
-              <img src="img/precios/modulo_6.png" class="card-img-top" alt="..." >
+        <img src="img/precios/precio_modulogestion.png" class="card-img-top" alt="..." >
 
-        <div class="card-body text-center">
           <p class="card-text " id="parrafoc">Planifica las actividades y recursos
-de las tareas en nuevas aperturas</p>        </div>
+de las tareas en nuevas aperturas</p>        
       </div>
-    </div> -->
+    </div> 
   </div>
 
 <br>

@@ -1,8 +1,8 @@
 <template>
- <div class="container-fluid" id="accesoheader">
-    <h5 class="espacio"></h5>
- <div class="container text-center"  style="max-width:1400px">
-        <h5 class="espacio"></h5>
+<div class="container-fluid" id="accesoheader">
+  
+ <div class="container text-center">
+   <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
       <p id="titulohome">Bienvenido a <br> ANOVA</p>
             <p id="parrafoc">¿No tienes una cuenta? <a href="/recuperar_contraseña" id="link">Crea una</a> </p>

@@ -375,7 +375,22 @@ color: #302CD1;
     width:150px;
     
   }
+/* .headercard
+{
+  background-color: #9d26fa;
+  color: #fff;
+  border-radius: 20px 20px 0 0;
 
+}
+#titulocard
+{
+  margin-top: 20px;
+  font-family: Sansation;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline white;
+
+} */
 #card
 {
   border-radius: 20px 20px 20px 20px;
@@ -387,7 +402,7 @@ color: #302CD1;
   {
     border-radius: 20px 20px 20px 20px;
     border-left: 1px  #000000 solid;
-    max-width: 208px;
+    max-width: 250px;
     margin-right: 1px;
     box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.3);
 
@@ -396,7 +411,7 @@ color: #302CD1;
   {
     border-radius: 20px 20px 20px 20px;
     border-left: 1px  #000000 solid;
-    max-width: 200px;
+    max-width: 250px;
     margin-top: 10px;
 
     box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
@@ -409,7 +424,7 @@ color: #302CD1;
     font-size: 16px;
     line-height: 1; 
     color:rgba(240, 230, 230, 0.6);
-     width:200px;
+     width:250px;
   }
   .tabclick
   {
@@ -424,7 +439,7 @@ color: #302CD1;
 
   #form
   {
-    max-width: 640px;
+    max-width: 600px;
     background-color: white;
     border-radius: 40px;
     height:174px;
@@ -570,7 +585,7 @@ max-height: 200px;
     #nav
     {
       display: inline;
-      background-image: linear-gradient(to right, #2dbff9 , #6607e0 );
+      background-image: linear-gradient(to left, #2dbff9 , #6607e0 );
     }
     .nomovil
     {

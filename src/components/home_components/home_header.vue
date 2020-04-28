@@ -13,7 +13,7 @@
 
   <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de anova</button>
     <button class="button button2 ml-1 mt-2">
-              <router-link :to="'Prueba_30dias'" >Prueba gratis 30 dias</router-link>
+              <router-link :to="'prueba_30dias'" >Prueba gratis 30 dias</router-link>
       </button>
  
       </div>

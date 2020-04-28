@@ -25,7 +25,7 @@
       <br>
       <br>
        <p id="parrafoc">¿Olvidaste tu contraseña? 
-        <router-link :to="'Recuperar_contraseña'" id="link">Recupérala</router-link>
+        <router-link :to="'recuperar_contraseña'" id="link">Recupérala</router-link>
         </p>     
      <br>
  </div>

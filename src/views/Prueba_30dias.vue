@@ -24,7 +24,7 @@
       <br>
       <br>
        <p id="parrafoc">¿Olvidaste tu contraseña? 
-        <router-link :to="'Recuperar_contraseña'" id="link">Acceder a ANOVA</router-link>
+        <router-link :to="'recuperar_contraseña'" id="link">Acceder a ANOVA</router-link>
         </p>     
      <br>
  </div>

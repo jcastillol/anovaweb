@@ -4,7 +4,7 @@
  <div class="container text-center">
    <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
-      <p id="titulohome">Registrate/p>
+      <p id="titulohome">Registrate</p>
       <form>
         <div class="container text-center" id="form">
             <br>
@@ -14,10 +14,9 @@
         <br>
         <input type="text" name="usuario" id="Usuario" placeholder="Usuario"> 
         <br>
-
         <input type="text" name="contraseña" id="contraseña" placeholder="Contraseña"> 
         <br>
-        <input type="text" name="confirmarntraseña" id="confirmarntraseña" placeholder="confirmarntraseña">
+        <input type="text" name="confirmarntraseña" id="confirmarntraseña" placeholder="Confirmar Contraseña">
         <br>
         </div>
         <br>
@@ -25,8 +24,9 @@
       </form>
       <br>
       <br>
-      <p id="parrafoc">¿Olvidaste tu contraseña? <a href="/recuperar_contraseña" id="link">Recupérala</a> </p>
-     
+       <p id="parrafoc">¿Olvidaste tu contraseña? 
+        <router-link :to="'Recuperar_contraseña'" id="link">Recupérala</router-link>
+        </p>     
      <br>
  </div>
  </div>

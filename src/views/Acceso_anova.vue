@@ -5,8 +5,9 @@
    <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
       <p id="titulohome">Bienvenido a <br> ANOVA</p>
-            <p id="parrafoc">¿No tienes una cuenta? <a href="/recuperar_contraseña" id="link">Crea una</a> </p>
-
+            <p id="parrafoc">¿No tienes una cuenta?
+                      <router-link :to="'Registrarse_contraseña'" id="link">Crea una</router-link>
+               </p>
       <form>
         <div class="container text-center" id="form">
             <br>
@@ -21,7 +22,9 @@
       </form>
       <br>
       <br>
-      <p id="parrafoc">¿Olvidaste tu contraseña? <a href="/recuperar_contraseña" id="link">Recupérala</a> </p>
+      <p id="parrafoc">¿Olvidaste tu contraseña? 
+        <router-link :to="'Recuperar_contraseña'" id="link">Recupérala</router-link>
+        </p>
      
      <br>
  </div>

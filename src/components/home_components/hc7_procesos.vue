@@ -4,7 +4,10 @@
   <p  id="tituloe">Ten todos los procesos <br> de tu restaurante bajo control</p>
  
   <br>
-            <button class="button button2 ml-2">Descargar demos</button>
+            <button class="button button2 ml-2">
+         <router-link :to="'Prueba_30dias'" >Descargar demo</router-link>
+
+               </button>
 
  
 </div>

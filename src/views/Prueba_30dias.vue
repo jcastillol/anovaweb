@@ -23,11 +23,10 @@
       </form>
       <br>
       <br>
-       <p id="parrafoc">¿Olvidaste tu contraseña? 
-        <router-link :to="'recuperar_contraseña'" id="link">Acceder a ANOVA</router-link>
-        </p>     
+        
      <br>
  </div>
+</div>
  <div class="container text-center"  style="max-width:1200px">
        <p id="parrafoc">únete a la comunidad de restaurantes inteligentes</p>
 

@@ -17,7 +17,7 @@
       <br>
       <br>
           <p id="parrafoc">¿No tienes una cuenta?
-                      <router-link :to="'registrarse_contraseña'" id="link">Crea una</router-link>
+                      <router-link :to="'registrarse_anova'" id="link">Crea una</router-link>
                </p>     
      <br>
  </div>

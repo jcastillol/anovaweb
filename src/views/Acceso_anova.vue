@@ -6,7 +6,7 @@
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
       <p id="titulohome">Bienvenido a <br> ANOVA</p>
             <p id="parrafoc">¿No tienes una cuenta?
-                      <router-link :to="'registrarse_contraseña'" id="link">Crea una</router-link>
+                      <router-link :to="'registrarse_anova'" id="link">Crea una</router-link>
                </p>
       <form>
         <div class="container text-center" id="form">

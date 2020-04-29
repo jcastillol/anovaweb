@@ -1,6 +1,6 @@
 <template>
     <div class="container text-center"   style="max-width:1000px;">
-      <h5  id="titulob2">MODULO</h5>
+      <h5  id="titulob2">MÓDULO</h5>
     <h5  id="tituloa2">CAPITAL HUMANO </h5>
 <br>
 <br>

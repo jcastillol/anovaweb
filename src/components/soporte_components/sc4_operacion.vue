@@ -2,7 +2,7 @@
   <div class="container text-center" style="max-width:800px;">
     <h5 class="card-title text-left" id="tituloa">
       <img src="img/soporte/soporte_iconooperacion.png" />
-      Operacion del software
+      Operación del software
     </h5>
     <div role="tablist" class="mb-5 text-left">
       <b-card no-body class="mb-1">

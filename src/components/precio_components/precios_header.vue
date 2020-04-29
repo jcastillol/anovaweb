@@ -2,16 +2,16 @@
   <div class="container-fluid" id="preciosheader">
    
     <div class="container text-center border-0 bg-transparent nomovil">
-       <br />
-  <br />
+
       <h5 id="titulohome">
         <img src="img/play.png" />
         Planes que se ajustan a tus necesidades
       </h5>
+      <br>
       <h5
         id="parrafob"
-      >Puedes utilizar nuestra versión de prueba GRATIS durante 30 días antes de elegir un plan</h5>
-      <br/>
+      >!Elige tu plan!
+Recuerda que también puedes descargar la versión de prueba por 30 días GRATIS</h5>
       <br/>
 
       <ul class="nav justify-content-center">
@@ -34,6 +34,8 @@
         <div class="card-group border-0">
           <div class="card border-0" id="cardprecios1">
             <img src="img/precios/precio_planbasico.png" class="card-img-top" alt="..." />
+                        <br />
+                                    <br />
             <ul class="text-left nostyle">
               <li>
                 <img src="img/precios/precio_iconodone.png" class="imglista" /> Usuarios Ilimitados
@@ -48,13 +50,13 @@
                 <img src="img/precios/precio_iconodone.png" class="imglista" /> Cortes de caja
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a Proveedores
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a proveedores
               </li>
               <li>
                 <img src="img/precios/precio_iconodone.png" class="imglista" /> Asistente de inventarios
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard Financiero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard financiero
               </li>
             </ul>
             <br />
@@ -81,13 +83,13 @@
                 <img src="img/precios/precio_iconodone.png" class="imglista" /> Cortes de caja
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a Proveedores
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a proveedores
               </li>
               <li>
                 <img src="img/precios/precio_iconodone.png" class="imglista" /> Asistente de inventarios
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard Financiero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard financiero
               </li>
               <li>
                 <img src="img/precios/precio_iconostar.png" class="imglista" /> Modulo servicio a domicilio
@@ -96,7 +98,7 @@
                 <img src="img/precios/precio_iconostar.png" class="imglista" /> Modulo facturación
               </li>
               <li>
-                <img src="img/precios/precio_iconostar.png" class="imglista" /> Web Dashboard
+                <img src="img/precios/precio_iconostar.png" class="imglista" /> Dashboard Web 
               </li>
             </ul>
             <p id="tituloc">
@@ -120,8 +122,8 @@
             <div class="card border-0" id="card">
               <img src="img/precios/precio_moduloventas.png" class="card-img-top" alt="..." />
               <p id="parrafoc">
-                Visualiza la centralización de ventas
-                entre sucursales
+                Conoce la centralización de ventas
+                entre sucursales.
               </p>
             </div>
           </div>
@@ -130,7 +132,7 @@
               <img src="img/precios/precio_modulofinanzas.png" class="card-img-top" alt="..." />
               <p class="card-text" id="parrafoc">
                 Observa estados financieros y centraliza
-                tus cuentas por pagar entre otros
+                tus cuentas por pagar entre otros.
               </p>
             </div>
           </div>
@@ -138,8 +140,8 @@
             <div class="card border-0" id="card">
               <img src="img/precios/precio_modulooperaciones.png" class="card-img-top" alt="..." />
               <p class="card-text" id="parrafoc">
-                Vigila desde recetas hasta la
-                distribucion en puntos de ventas
+                Supervisa desde recetas hasta la
+                distribución en puntos de ventas.
               </p>
             </div>
           </div>
@@ -148,7 +150,7 @@
               <img src="img/precios/precio_modulocapital.png" class="card-img-top" alt="..." />
               <p class="card-text" id="parrafoc">
                 Lleva un seguimiento completo y
-                preciso de todos tus empleados
+                preciso de todos tus empleados.
               </p>
             </div>
           </div>
@@ -157,7 +159,7 @@
               <img src="img/precios/precio_moduloauditoria.png" class="card-img-top" alt="..." />
               <p class="card-text" id="parrafoc">
                 Asegura la calidad y conciencia
-                de tu marca
+                de tu marca.
               </p>
             </div>
           </div>
@@ -167,7 +169,7 @@
 
               <p class="card-text" id="parrafoc">
                 Planifica las actividades y recursos
-                de las tareas en nuevas aperturas
+                de las tareas en nuevas aperturas.
               </p>
             </div>
           </div>
@@ -201,7 +203,7 @@
           :autoplay="false"
           :nav="false"
          
-          :responsive="{0:{items:1},410:{items:1, stagePadding:50},578:{items:2}}"
+          :responsive="{0:{items:1,margin:10},410:{items:1, stagePadding:50},578:{items:2}}"
           v-if="selected === '' || selected === 'ANOVA Punto de venta'"
         >
           <div class="card border-0" id="cardprecios1">
@@ -214,9 +216,9 @@
               <li>Comandero</li>
               <li>Cobro rápido</li>
               <li>Cortes de caja</li>
-              <li>Compras a Proveedores</li>
+              <li>Compras a proveedores</li>
               <li>Asistente de inventarios</li>
-              <li>Dashboard Financiero</li>
+              <li>Dashboard financiero</li>
             </ul>
             <br>
             <p id="tituloc">
@@ -231,12 +233,12 @@
               <li>Comandero</li>
               <li>Cobro rápido</li>
               <li>Cortes de caja</li>
-              <li>Compras a Proveedores</li>
+              <li>Compras a proveedores</li>
               <li>Asistente de inventarios</li>
-              <li>Dashboard Financiero</li>
+              <li>Dashboard financiero</li>
               <li class="negrita">Modulo servicio a domicilio</li>
               <li class="negrita">Modulo facturación</li>
-              <li class="negrita">Web Dashboard</li>
+              <li class="negrita">Dashboard Web </li>
             </ul>
             <p id="tituloc">
               $750 mxn
@@ -256,8 +258,8 @@
           <div class="card border-0" id="card">
             <img src="img/precios/precio_moduloventas.png" class="card-img-top" alt="..." />
             <p id="parrafoc">
-              Visualiza la centralización de ventas
-              entre sucursales
+              Conoce la centralización de ventas
+              entre sucursales.
             </p>
           </div>
 
@@ -265,15 +267,15 @@
             <img src="img/precios/precio_modulofinanzas.png" class="card-img-top" alt="..." />
             <p id="parrafoc">
               Observa estados financieros y centraliza
-              tus cuentas por pagar entre otros
+              tus cuentas por pagar entre otros.
             </p>
           </div>
 
           <div class="card border-0" id="card">
             <img src="img/precios/precio_modulooperaciones.png" class="card-img-top" alt="..." />
             <p id="parrafoc">
-              Vigila desde recetas hasta la
-              distribucion en puntos de ventas
+              Supervisa desde recetas hasta la
+              distribución en puntos de ventas.
             </p>
           </div>
 
@@ -281,7 +283,7 @@
             <img src="img/precios/precio_modulocapital.png" class="card-img-top" alt="..." />
             <p class="card-text" id="parrafoc">
               Lleva un seguimiento completo y
-              preciso de todos tus empleados
+              preciso de todos tus empleados.
             </p>
           </div>
 
@@ -289,7 +291,7 @@
             <img src="img/precios/precio_moduloauditoria.png" class="card-img-top" alt="..." />
             <p class="card-text" id="parrafoc">
               Asegura la calidad y conciencia
-              de tu marca
+              de tu marca.
             </p>
           </div>
 
@@ -297,7 +299,7 @@
             <img src="img/precios/precio_modulogestion.png" class="card-img-top" alt="..." />
             <p class="card-text" id="parrafoc">
               Planifica las actividades y recursos
-              de las tareas en nuevas aperturas
+              de las tareas en nuevas aperturas.
             </p>
           </div>
         </carousel>
@@ -332,39 +334,7 @@ export default {
 };
 </script>
 <style scoped>
-.slide-fade-enter {
-  transform: translateX(10px);
-  opacity: 0;
-}
 
-.slide-fade-enter-active {
-  transition: all 0.8s ease;
-}
-.slide-fade-leave-active {
-  transition: all 0.4s ease;
-}
-
-.slide-fade-leave-to {
-  transform: translateX(-10px);
-  opacity: 0;
-}
-
-.slide-fade2-enter {
-  transform: translateX(10px);
-  opacity: 0;
-}
-
-.slide-fade2-enter-active {
-  transition: all 1s ease;
-}
-.slide-fade2-leave-active {
-  transition: all 0.3s ease;
-}
-
-.slide-fade2-leave-to {
-  transform: translateX(-10px);
-  opacity: 0;
-}
 #parrafob
 {
  color:white;
@@ -375,5 +345,9 @@ export default {
     font-size: min(4.65vw,14px); 
     line-height: 1.2;
 
+}
+#titulohome
+{
+  margin-top: 5%;
 }
 </style>

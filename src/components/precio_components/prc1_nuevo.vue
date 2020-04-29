@@ -9,7 +9,7 @@
       <div class="card-body mt-3 bg-transparent text-center ">
       <h5   id="tituloj">¡  N  U  E  V  O  !</h5>
        <h5  id="parrafod">AHORA PUEDES REALIZAR TUS FACTURAS</h5>
-<p  id="tituloe">MODULO DE </p>
+<p  id="tituloe">MÓDULO DE </p>
 <p  id="tituloe2">FACTURACIÓN CFDI 3.3</p>
 
 <p  id="parrafo">Paquete de 25 facturas al mes no acumulables</p>

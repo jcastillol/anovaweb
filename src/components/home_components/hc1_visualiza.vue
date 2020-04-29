@@ -11,7 +11,8 @@
         <h5   id="tituloa">VISUALIZA LAS FINANZAS</h5>
         <h5  id="titulob">DE TU RESTAURANTE EN TIEMPO REAL</h5>
         <h5   id="tituloc">DASHBOARD WEB</h5>
-        <p id="parrafo">Ve un resumen de las finanzas en tiempo real y visualiza como se comportan las ventas por dia y hora</p>
+        <p id="parrafo">Obtén un resumen de las finanzas en tiempo real y visualiza como se
+comportan las ventas por día y hora.</p>
 
       </div>
     </div>
@@ -24,10 +25,11 @@
     </div>
        <div class="col-md-9  ">
       <div class="card-body text-center text-md-right">
-        <h5   id="tituloa">CONTROLA TODAS LAS</h5>
+        <h5   id="tituloa">SUPERVISA TODAS LAS</h5>
         <h5   id="titulob">ENTRADAS Y SALIDAS DE TUS INSUMOS</h5>
         <h5   id="tituloc">CONTROL DE INVENTARIOS</h5>
-        <p  id="parrafo">¡No te quedes sin producto! ANOVA te avisa cuando es momento de comprar insumos gracias a nuestro algoritmo inteligente.</p>
+        <p  id="parrafo">!No te quedes sin producto! ANOVA te avisa cuando es momento de
+comprar insumos, gracias a nuestro algoritmo inteligente.</p>
       </div>
      
     </div>
@@ -45,7 +47,8 @@
         <h5   id="tituloa">VALIDA QUE TODAS LAS</h5>
         <h5  id="titulob">TRANSACCIONES DE CAJA SEÁN CORRECTAS </h5>
         <h5  id="tituloc">CORTE DE CAJA</h5>
-        <p id="parrafo">Al final del día registra el dinero que tienes en la caja y ANOVA te dirá si te sobra o te falta efectivo</p>
+        <p id="parrafo">Al final del día registra el dinero que tienes en la caja y ANOVA te dirá si
+excede o falta efectivo.</p>
 
       </div>
     </div>

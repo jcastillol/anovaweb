@@ -14,7 +14,7 @@ comunicarte con un experto que te atenderá personalmente y resolverá tus dudas
       </p>
               <br />
         <br />
-      <p id="tituloc">Mándanos whatsapp al  </p> 
+      <p id="tituloc">Mándanos Whatsapp al  </p> 
      <p id="tituloa">33 17 28 44 97 </p> 
 
       <br>

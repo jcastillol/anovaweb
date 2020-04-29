@@ -43,7 +43,7 @@ gerente, capitán de meseros, mesero y personalizarlos.
       <h5   id="tituloc">CORTE DE CAJA</h5>
       <p  id="parrafo">
        Al final del día registra el dinero que tienes en 
-la caja y ANOVA te dirá si te sobra o falta efectivo.
+la caja y ANOVA te dirá si excede o falta efectivo.
       </p>
       </div>
     </div>

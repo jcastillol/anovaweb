@@ -6,8 +6,8 @@
             Centro de soporte ANOVA
          </h5>
          <p class="parrafoc"> 
-             Seguro tienes dudas acerca del  software y el equipo, <br>
-en esta sección encontraras información que te será de gran ayuda
+           Tal vez tengas dudas acerca del software y el equipo,<br>
+en esta sección encontraras información que te serán de gran ayuda
 <br>
 <br>
 <br>

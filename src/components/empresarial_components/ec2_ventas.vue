@@ -1,6 +1,6 @@
 <template>
      <div class="container text-center"   style="max-width:1000px;">
-      <h5  id="titulob2">MODULO</h5>
+      <h5  id="titulob2">MÓDULO</h5>
     <h5  id="tituloa2">VENTAS </h5>
 <br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 <p class="tituloc">
-    Visualiza la centralización de ventas entre sucursales, cancelaciones y descuentos, análisis de ventas de productos y 
+    Conoce la centralización de ventas entre sucursales, cancelaciones y descuentos, análisis de ventas de productos y 
 promociones, base de datos única de clientes, y la segmentación de clientes, además realiza email marketing.
 </p>
 <br>

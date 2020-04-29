@@ -12,8 +12,8 @@
  <br>
       <h5   id="parrafoc">
                 <img src="img/play.png" >
-Dejanos a nosotros la administración </h5>
-            <h5  id="parrafoc">y  dedicale mas tiempo a tus clientes</h5>
+Dejános a nosotros la administración </h5>
+            <h5  id="parrafoc">y  dedícale mas tiempo a tus clientes</h5>
 <br>
     <button class="button button1 mb-2 ml-2">Descargar demo</button>
         <button class="button button2 ml-2">Precios</button>

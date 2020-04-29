@@ -13,12 +13,14 @@
       <h5   id="tituloa">SOFTWARE INTELIGENTE <br> </h5>
             <h5  id="titulob">EL CEREBRO DE TU RESTAURANTE  </h5>
 
-      <h5   id="tituloc">PODRAS OPERAR Y ADMINISTRAR <br>
+      <h5   id="tituloc">PODRÁS OPERAR Y ADMINISTRAR <br>
      TODO TU NEGOCIO DESDE UN SOLO LUGAR  </h5> 
          <br>
-      <p id="parrafo">Aumenta tus utilidades controlando todas las áreas, realiza las actividades diarias más rapido y automatiza todas las operaciones de tu negocio desde un solo lugar.</p>
+      <p id="parrafo">Aumenta tus utilidades controlando todas las áreas, 
+        realiza las actividades diarias más rápido y automatiza todas las operaciones 
+        de tu negocio desde un solo lugar.</p>
   <br>
-    <button class="button button2 ml-2">ver mas información</button>
+    <button class="button button2 ml-2">Ver mas información</button>
 
 
       </div>
@@ -42,7 +44,9 @@
  
       <h5   id="tituloc">UNICAMENTE CONECTALO <br> Y DISFRUTA LOS BENEFICIOS</h5>
 <br>
-      <p id="parrafo">Nosotros configuramos todo el equipo de punto de venta(Computadoras, impresoras, tablets y otros dispositivos) y te lo entregamos listo para usar</p>
+      <p id="parrafo">Nosotros configuramos todo el equipo de punto de venta, incluidas
+computadoras, impresoras, tablets y otros dispositivos, además te lo
+entregamos listo para usar.</p>
  <br>
     <button class="button button2 ml-2 ">Ir a tienda ANOVA</button>
 

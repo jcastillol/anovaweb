@@ -7,7 +7,7 @@
      <img src="img/home/home_ilustracionteam.png" class="card-img nomovil" alt="" srcset="">
 
     <p class="card-text text-center" id="parrafo">Un equipo de expertos ANOVA está para ayudarte a resolver cualquier duda 
-y darte soporte  en la operción  y administración de tu restaurante.  </p>
+y darte soporte  en la operación  y administración de tu restaurante.  </p>
 
     <button class="button button2 ml-2">Ir a Soporte</button>
 

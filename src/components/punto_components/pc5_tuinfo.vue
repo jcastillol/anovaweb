@@ -13,7 +13,7 @@
     <h5  id="titulok">DASHBOARD WEB</h5>
      <p id="parrafoc"> 
        Accede a toda tu información en cualquier momento, en cualquier lugar, con este módulo<br>
-de inteligencia de negocios, con reportes que te ayudan a la toma de desiciones acertadas.
+de inteligencia de negocios, con reportes que te ayudan a la toma de decisiones acertadas.
 
      </p>
 

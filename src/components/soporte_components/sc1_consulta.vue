@@ -10,7 +10,7 @@
     <button class="button button3">Descargar Primeros Pasos</button>
         <p class="card-text" id="parrafob">
        Encontrarás lo necesario para 
-empezar a operar tu  restaurante
+empezar a operar tu  restaurante.
         </p>
       </div>
     </div>

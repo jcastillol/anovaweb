@@ -1,6 +1,6 @@
 <template>
      <div class="container text-center"   style="max-width:1000px;">
-      <h5  id="titulob2">MODULO</h5>
+      <h5  id="titulob2">MÓDULO</h5>
     <h5  id="tituloa2">AUDITORÍA E INSPECCIÓN </h5>
 <br>
 <br>
@@ -24,21 +24,21 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoaudotoria1.png" alt="..." class="mb-1 card-img iconoempresarial" >
-          <p id="titulol">Auditoria de calidad</p>        </div>
+          <p id="titulol">Auditoría de calidad</p>        </div>
       </div>
     </div>
     <div class="col ">
       <div class="card bg-transparent border-0">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoaudotoria2.png" alt="..." class="mb-1 card-img iconoempresarial" >
-          <p id="titulol">Auditoria de  procesos</p>        </div>
+          <p id="titulol">Auditoría de  procesos</p>        </div>
       </div>
     </div>
       <div class="col ">
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoaudotoria3.png" alt="..." class="mb-1 card-img iconoempresarial" >
-          <p id="titulol"> Auditoria de servicios   </p>       
+          <p id="titulol"> Auditoría de servicios   </p>       
         </div>
       </div>
     </div>
@@ -54,7 +54,7 @@ a través de la evaluación y seguimiento de los puntos clave que deben cumplirs
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconoaudotoria5.png" alt="..." class="mb-1 card-img iconoempresarial" >
-          <p id="titulol">Check list de actividades diarias</p>       
+          <p id="titulol">Checklist de actividades diarias</p>       
         </div>
       </div>
       </div>   

@@ -7,9 +7,9 @@
       <div class="card-body  text-center text-lg-left bg-transparent ">
          
       
- <p  id="titulohome">  Controlar tu restaurante <br> nunca fue tan facil</p> 
+ <p  id="titulohome">  Controlar tu restaurante <br> nunca fue tan fácil</p> 
  <br> 
- <p  id="subtitulohome" >Software inteligente punto de venta para <br> RESTAURANTES, BARES Y CAFETERIAS</p>     
+ <p  id="subtitulohome" >Software inteligente punto de venta para <br> RESTAURANTES, BARES Y CAFETERÍAS</p>     
 
   <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de ANOVA</button>
    <router-link :to="'prueba_30dias'" id="link2" > <button class="button button2 ml-1 mt-2">

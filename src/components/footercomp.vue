@@ -40,7 +40,10 @@
     </div>
     <div class="col-md-8">
       <div class="card-body ml-4">
-        <p class="card-text text-left" id="linkf">Somos una empresa de jóvenes emprendedores de Guadalajara, Jalisco con experiencia en la industria gastronómica que tenemos por objetivo simplificar la administración y aumentar las utilidades de nuestros clientes a través de herramientas tecnológicas.
+        <p class="card-text text-left" id="linkf">Somos una empresa de jóvenes emprendedores de Guadalajara, Jalisco con
+experiencia en la industria gastronómica que tenemos por objetivo simplificar la
+administración y aumentar las utilidades de nuestros clientes a través de
+herramientas tecnológicas.
 </p>
         <p class="card-text" ></p>
       </div>

@@ -10,9 +10,9 @@
       <img src="img/punto/pv_laptopfacturas.png" class="imgfactura card-img" >
 
       <h5  id="tituloa">COMPLETA AL MEJOR COSTO </h5>
-      <h5  id="titulob">UNICAMENTE CONECTALO</h5>
+      <h5  id="titulob">ÚNICAMENTE CONECTALO</h5>
       <br>
-    <h5   id="tituloc">MODULO DE FACTURACIÓN CFDI 3.3</h5>
+    <h5   id="tituloc">MÓDULO DE FACTURACIÓN CFDI 3.3</h5>
     <br>
         <h1 id="parrafo">Atiende los requerimientos establecidos por el SAT, obteniendo 
 comprobantes fiscales digitales con un certificado de firma electrónica avanzada.</h1>

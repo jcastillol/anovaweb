@@ -1,6 +1,6 @@
 <template>
     <div class="container text-center"   style="max-width:1000px;">
-      <h5  id="titulob2">MODULO</h5>
+      <h5  id="titulob2">MÓDULO</h5>
     <h5  id="tituloa2">FINANZAS </h5>
 <br>
 <br>
@@ -24,7 +24,7 @@ basadas en consumos, cumple con regulaciones fiscales y ten bajo control el mane
       <div class="card bg-transparent border-0 ">
         <div class="card-body ">
           <img src="img/empresarial/empresarial_iconofinanzas1.png" alt="..." class="mb-1 card-img iconoempresarial" >
-          <p id="titulol">Contabilidad Electronica</p>        </div>
+          <p id="titulol">Contabilidad Electrónica</p>        </div>
       </div>
     </div>
     <div class="col ">

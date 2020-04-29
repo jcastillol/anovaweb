@@ -16,9 +16,9 @@
             <h5   id="titulob">TUS METRICAS</h5>
       <h5   id="tituloc">DASHBOARD GERENCIAL</h5>
       <p class="card-text" id="parrafo">
-        Nosotros configuramos todo el equipo de punto de venta
-        (Computadoras, impresoras, tablets y otros dispositivos) 
-        y te lo entregamos listo para usar
+       Obtén resumen de las finanzas de su restaurante
+en tiempo real y visualiza cómo se comportan
+las ventas por día de la semana y horas del día.
         </p>
 
       </div>

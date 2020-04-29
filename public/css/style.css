@@ -132,7 +132,7 @@ body {
   background-image:url('../img/header/Acceso_anova.png');
   background-position: center center;
   background-repeat: no-repeat;
-  height: 800px;
+  height: 840px;
   background-size: 100% 100%;
   padding-top: 100px;
   color: #fff;
@@ -176,6 +176,15 @@ body {
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
 font-weight: bold;
+font-size: 18px; 
+color: #fff;
+
+}
+
+#link2
+{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
 font-size: 18px; 
 color: #fff;
 
@@ -391,11 +400,23 @@ color: #302CD1;
   text-decoration: underline white;
 
 } */
+
+select,
+option{
+background-color: #5e6bef;
+font-family: sansation;
+font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+color: #fff;
+
+}
 #card
 {
   border-radius: 20px 20px 20px 20px;
   box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
   height: 280px;
+  color: #000000;
 
 }
   #cardprecios1
@@ -405,6 +426,10 @@ color: #302CD1;
     max-width: 250px;
     margin-right: 1px;
     box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.3);
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+font-weight: lighter;
+font-size: 12px; 
 
   } 
   #cardprecios2
@@ -415,7 +440,28 @@ color: #302CD1;
     margin-top: 10px;
 
     box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+font-weight: lighter;
+font-size: min(2.65vw,12px); 
 
+  }
+  .nostyle
+  {
+list-style-type: none;
+list-style-position: inside;
+margin-left: 30px;
+	padding: 0;
+}
+.negrita
+{
+  font-weight: bold;
+}
+
+  #imglista
+  {
+    width: 8px;
+    height: 8px;
   }
   
   .tab
@@ -442,7 +488,7 @@ color: #302CD1;
     max-width: 600px;
     background-color: white;
     border-radius: 40px;
-    height:174px;
+    height:auto;
     box-shadow: 5px 5px 8px  rgba(0,0,0,0.2);
 
   
@@ -600,4 +646,15 @@ max-height: 200px;
   {
     margin-top: 0%;
   }
+ .circle
+  {
+    list-style-type: circle;
+    list-style-position: inside;
+  padding: 0;
+  margin-left: 30px;
+
+  }
+  
+
+  
   }

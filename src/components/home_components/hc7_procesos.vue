@@ -5,7 +5,7 @@
  
   <br>
             <button class="button button2 ml-2">
-         <router-link :to="'Prueba_30dias'" >Descargar demo</router-link>
+         <router-link :to="'Prueba_30dias'" id="link2">Descargar demo</router-link>
 
                </button>
 

@@ -3,7 +3,7 @@
 
 <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
-    <div class="col-md-6 ">
+    <div class="col-md-6 nomovil">
       <img src="img/home/home_ipad.png" class="card-img mt-3 " alt="..." >
     </div>
     <div class="col-md-6">
@@ -29,7 +29,7 @@
 
 <div class="card mb-3 mx-auto bg-transparent border-0 " >
   <div class="row no-gutters">
-   <div class="col-md-7 order-md-5">
+   <div class="col-md-7 order-md-5 nomovil">
       <img src="img/home/home_paqueteequipo.png" class="card-img mt-3 " alt="..." >
     </div>
     <div class="col-md-5">

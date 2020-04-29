@@ -12,9 +12,9 @@
  <p  id="subtitulohome" >Software inteligente punto de venta para <br> RESTAURANTES, BARES Y CAFETERIAS</p>     
 
   <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de anova</button>
-    <button class="button button2 ml-1 mt-2">
-              <router-link :to="'prueba_30dias'" >Prueba gratis 30 dias</router-link>
-      </button>
+   <router-link :to="'prueba_30dias'" id="link2" > <button class="button button2 ml-1 mt-2">
+              Prueba gratis 30 dias
+      </button></router-link>
  
       </div>
     </div>

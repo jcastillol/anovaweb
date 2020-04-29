@@ -4,7 +4,7 @@
  <div class="container text-center">
    <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
-      <p id="titulohome">Registrate</p>
+      <p id="titulohome">Regístrate</p>
       <form>
         <div class="container text-center" id="form">
             <br>
@@ -18,11 +18,12 @@
         <br>
         <input type="text" name="confirmarntraseña" id="confirmarntraseña" placeholder="Confirmar Contraseña">
         <br>
+        <br>
         </div>
         <br>
         <button class="button button3" type="submit">Registrarse</button>
       </form>
-      <br>
+     
       <br>
        <p id="parrafoc">¿Olvidaste tu contraseña? 
         <router-link :to="'recuperar_contraseña'" id="link">Recupérala</router-link>

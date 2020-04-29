@@ -5,7 +5,7 @@
  <div class="container text-center">
    <h5 class="espacio"></h5>
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
-      <p id="titulohome">Registrate</p>
+      <p id="titulohome">Prueba ANOVA <br> Gratis por 30 dias </p>
       <form>
         <div class="container text-center" id="form">
             <br>
@@ -16,7 +16,8 @@
         <input type="text" name="usuario" id="Usuario" placeholder="Telefono"> 
         <br>
         <input type="text" name="contraseña" id="contraseña" placeholder="Email"> 
-        
+        <br>
+        <br>
         </div>
         <br>
         <button class="button button3" type="submit">Registrarse</button>
@@ -28,9 +29,11 @@
  </div>
 </div>
  <div class="container text-center"  style="max-width:1200px">
-       <p id="parrafoc">únete a la comunidad de restaurantes inteligentes</p>
+     <br>
+     <br>
+       <p id="parrafob">únete a la comunidad de restaurantes inteligentes</p>
 
-
+     <br>
   <div class="row row-cols-2 row-cols-lg-5 bg-transparent no-gutters justify-content-center ">
     <div class="col">
      
@@ -58,7 +61,7 @@
       </div>
 
     
-
+<br>
 
       </div>   
  </div>

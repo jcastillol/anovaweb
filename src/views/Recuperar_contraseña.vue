@@ -10,9 +10,11 @@
             <br>
         <input type="text" name="usuario" id="Usuario" placeholder="Usuario"> 
         <br>
+          <br>
         </div>
         <br>
         <button class="button button3" type="submit">Recuperar Contraseña</button>
+                   
       </form>
       <br>
       <br>

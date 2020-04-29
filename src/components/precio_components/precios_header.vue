@@ -25,14 +25,39 @@
 <div class="card-group border-0 "    >
   <div class="card border-0 " id="cardprecios1">
     <img src="img/precios/precio_planbasico.png" class="card-img-top   " alt="...">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-  </div>
+      <ul  class="text-left nostyle">
+    <li ><img src="img/precios/precio_iconodone.png" class="imglista">Usuarios Ilimitados</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Comandero</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Cobro rápido</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Cortes de caja</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Compras a Proveedores</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Asistente de inventarios</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Dashboard Financiero</li>
+  </ul>
+  <br>
+  <br>
+     <p id="tituloc">$450 mxn <br> Mensuales</p>  </div>
   <div class="card  border-0 " id="cardprecios2">
     <img src="img/precios/precio_planri.png" class="card-img-top" alt="...">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-  </div>
+       <ul  class="text-left nostyle">
+    <li ><img src="img/precios/precio_iconodone.png" class="imglista">Usuarios Ilimitados</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Comandero</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Cobro rápido</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Cortes de caja</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Compras a Proveedores</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Asistente de inventarios</li>
+     <li ><img src="img/precios/precio_iconodone.png" class="imglista">Dashboard Financiero</li>
+    <li ><img src="img/precios/precio_iconostar.png" class="imglista">Modulo servicio a domicilio</li>
+    <li ><img src="img/precios/precio_iconostar.png" class="imglista">Modulo facturación</li>
+    <li ><img src="img/precios/precio_iconostar.png" class="imglista">Web Dashboard</li>
+
+  </ul>
+     <p id="tituloc">$750 mxn <br> Mensuales</p> 
+
+  </div>    
+    
+    </div>
+
    
  
  
@@ -91,6 +116,7 @@ de tu marca</p>
 de las tareas en nuevas aperturas</p>        
       </div>
     </div> 
+
   </div>
 
 <br>
@@ -101,19 +127,100 @@ de las tareas en nuevas aperturas</p>
 </div>
   
 
-     </div>
-
 
    <!-- versionmovil -->
 
 
-<div class="container text-center simovil">
-
+<div class="container text-center simovil" >
+<br>
+      <br>
 <select v-model="selected">
         <option disabled value="">Escoge tu plan</option>
-        <option>Anova Punto de venta</option>
-        <option>Anova Empresarial</option>
+        <option>ANOVA Punto de venta</option>
+        <option>ANOVA Empresarial</option>
       </select>
+      <br>
+      <br>
+  <div class="container text-center" style="max-width:500px">
+  <carousel :autoplay="false" :nav="false" :responsive="{0:{items:1, stagePadding:50},578:{items:2}}" v-if="selected === '' || selected === 'ANOVA Punto de venta'">
+  <div class="card border-0 " id="cardprecios1">
+    <img src="img/precios/precio_planbasico.png" class="card-img-top   " alt="...">
+     <ul  class="circle text-left">
+       <li >Usuarios Ilimitados</li>
+     <li >Comandero</li>
+     <li >Cobro rápido</li>
+     <li >Cortes de caja</li>
+     <li >Compras a Proveedores</li>
+     <li >Asistente de inventarios</li>
+     <li >Dashboard Financiero</li>
+  </ul>
+  <p id="tituloc">$450 mxn <br> Mensuales</p> 
+  </div>
+  <div class="card  border-0 " id="cardprecios2">
+    <img src="img/precios/precio_planri.png" class="card-img-top" alt="...">
+    <ul  class="circle text-left">
+   <li >Usuarios Ilimitados</li>
+     <li >Comandero</li>
+     <li >Cobro rápido</li>
+     <li >Cortes de caja</li>
+     <li >Compras a Proveedores</li>
+     <li >Asistente de inventarios</li>
+     <li >Dashboard Financiero</li>
+    <li class="negrita">Modulo servicio a domicilio</li>
+    <li class="negrita">Modulo facturación</li>
+    <li class="negrita">Web Dashboard</li>
+  </ul>
+  <p id="tituloc">$750 mxn <br> Mensuales</p> 
+  </div>
+   
+  </carousel>
+</div>
+  <div class="container text-center" style="max-width:600px">
+
+    <carousel :autoplay="false" :nav="false" :responsive="{0:{items:1, stagePadding:50},578:{items:2},700:{items:3}}" v-if="selected === 'ANOVA Empresarial'">
+      
+      <div class="card border-0 " id="card">
+        <img src="img/precios/precio_moduloventas.png" class="card-img-top" alt="..." >
+          <p  id="parrafoc">Visualiza la centralización de ventas
+entre sucursales</p>        
+       </div>
+      
+      <div class="card  border-0" id="card" >
+        <img src="img/precios/precio_modulofinanzas.png" class="card-img-top" alt="..." >
+          <p  id="parrafoc">Observa estados financieros y centraliza
+tus cuentas por pagar entre otros</p>        
+        </div>
+
+        <div class="card  border-0" id="card" >
+        <img src="img/precios/precio_modulooperaciones.png" class="card-img-top" alt="..." >
+          <p id="parrafoc">Vigila desde recetas hasta la
+distribucion en puntos de ventas</p>        
+      </div>
+
+  <div class="card  border-0" id="card" >
+        <img src="img/precios/precio_modulocapital.png" class="card-img-top" alt="..." >
+          <p class="card-text" id="parrafoc">Lleva un seguimiento completo y 
+preciso de todos tus empleados</p>       
+      </div>
+
+       <div class="card  border-0" id="card" >
+        <img src="img/precios/precio_moduloauditoria.png" class="card-img-top" alt="..." >
+          <p class="card-text" id="parrafoc">Asegura la calidad y conciencia 
+de tu marca</p>        
+      </div>
+
+      <div class="card  border-0" id="card" >
+        <img src="img/precios/precio_modulogestion.png" class="card-img-top" alt="..." >
+          <p class="card-text " id="parrafoc">Planifica las actividades y recursos
+de las tareas en nuevas aperturas</p>        
+      </div> 
+
+
+    </carousel>
+  </div>
+      <img src="img/precios/logos_bancarios.png" alt="..." class="card-img" style="max-width:267px">
+
+
 
 </div>
 
@@ -121,6 +228,7 @@ de las tareas en nuevas aperturas</p>
 </div>
 </template>
 <script>
+import carousel from 'vue-owl-carousel'
 
 export default {
     name: 'precios_header',
@@ -132,6 +240,7 @@ export default {
 
       }
     },
+    components: { carousel },
     methods: {
 
       activartab(){

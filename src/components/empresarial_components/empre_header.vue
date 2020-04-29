@@ -3,7 +3,7 @@
 <div class="container-fluid" id="empresarialheader">
  <div class="card mb-3 mx-auto bg-transparent border-0  "  style="max-width:1366px">
   <div class="row no-gutters">
-   <div class="col-lg-6  mt-4 ">
+   <div class="col-lg-6  mt-4 nomovil">
         <img src="img/empresarial/header.png"  class=" card-img " >
     </div>
     <div class="col-lg-6">

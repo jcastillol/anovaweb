@@ -17,7 +17,7 @@ Dejanos a nosotros la administración </h5>
 <br>
     <button class="button button1 mb-2 ml-2">Descargar demo</button>
         <button class="button button2 ml-2">Precios</button>
- <div class="text-center">
+ <div class="text-center nomovil">
       <img src="img/punto/pv_cerebro.png" class="card-img" style="max-width:300px" >
  
 

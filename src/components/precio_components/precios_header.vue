@@ -1,8 +1,9 @@
 <template>
   <div class="container-fluid" id="preciosheader">
-    <br />
-
+   
     <div class="container text-center border-0 bg-transparent nomovil">
+       <br />
+  <br />
       <h5 id="titulohome">
         <img src="img/play.png" />
         Planes que se ajustan a tus necesidades
@@ -35,25 +36,25 @@
             <img src="img/precios/precio_planbasico.png" class="card-img-top" alt="..." />
             <ul class="text-left nostyle">
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Usuarios Ilimitados
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Usuarios Ilimitados
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Comandero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Comandero
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Cobro rápido
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Cobro rápido
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Cortes de caja
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Cortes de caja
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Compras a Proveedores
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a Proveedores
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Asistente de inventarios
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Asistente de inventarios
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Dashboard Financiero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard Financiero
               </li>
             </ul>
             <br />
@@ -68,34 +69,34 @@
             <img src="img/precios/precio_planri.png" class="card-img-top" alt="..." />
             <ul class="text-left nostyle">
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Usuarios Ilimitados
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Usuarios Ilimitados
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Comandero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Comandero
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Cobro rápido
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Cobro rápido
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Cortes de caja
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Cortes de caja
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Compras a Proveedores
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Compras a Proveedores
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Asistente de inventarios
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Asistente de inventarios
               </li>
               <li>
-                <img src="img/precios/precio_iconodone.png" class="imglista" />Dashboard Financiero
+                <img src="img/precios/precio_iconodone.png" class="imglista" /> Dashboard Financiero
               </li>
               <li>
-                <img src="img/precios/precio_iconostar.png" class="imglista" />Modulo servicio a domicilio
+                <img src="img/precios/precio_iconostar.png" class="imglista" /> Modulo servicio a domicilio
               </li>
               <li>
-                <img src="img/precios/precio_iconostar.png" class="imglista" />Modulo facturación
+                <img src="img/precios/precio_iconostar.png" class="imglista" /> Modulo facturación
               </li>
               <li>
-                <img src="img/precios/precio_iconostar.png" class="imglista" />Web Dashboard
+                <img src="img/precios/precio_iconostar.png" class="imglista" /> Web Dashboard
               </li>
             </ul>
             <p id="tituloc">
@@ -118,7 +119,7 @@
           <div class="col mb-4">
             <div class="card border-0" id="card">
               <img src="img/precios/precio_moduloventas.png" class="card-img-top" alt="..." />
-              <p id="parrafoa">
+              <p id="parrafoc">
                 Visualiza la centralización de ventas
                 entre sucursales
               </p>
@@ -185,7 +186,7 @@
 
     <!-- versionmovil -->
 
-    <div class="container text-center simovil">
+    <div class="container-fluid text-center simovil" >
       <br />
       <br />
       <select v-model="selected">
@@ -195,15 +196,19 @@
       </select>
       <br />
       <br />
-      <div class="container text-center" style="max-width:500px">
+      <div class="container text-center" style="max-width:500px ">
         <carousel
           :autoplay="false"
           :nav="false"
-          :responsive="{0:{items:1, stagePadding:50},578:{items:2}}"
+         
+          :responsive="{0:{items:1},410:{items:1, stagePadding:50},578:{items:2}}"
           v-if="selected === '' || selected === 'ANOVA Punto de venta'"
         >
           <div class="card border-0" id="cardprecios1">
             <img src="img/precios/precio_planbasico.png" class="card-img-top" alt="..." />
+            <br />
+                       <br>
+   
             <ul class="circle text-left">
               <li>Usuarios Ilimitados</li>
               <li>Comandero</li>
@@ -213,6 +218,7 @@
               <li>Asistente de inventarios</li>
               <li>Dashboard Financiero</li>
             </ul>
+            <br>
             <p id="tituloc">
               $450 mxn
               <br />Mensuales
@@ -243,7 +249,8 @@
         <carousel
           :autoplay="false"
           :nav="false"
-          :responsive="{0:{items:1, stagePadding:50},578:{items:2},700:{items:3}}"
+          
+          :responsive="{0:{items:1,margin:10},410:{items:1, stagePadding:50,margin:10},578:{items:2,margin:10}}"
           v-if="selected === 'ANOVA Empresarial'"
         >
           <div class="card border-0" id="card">
@@ -361,5 +368,12 @@ export default {
 #parrafob
 {
  color:white;
+}
+#parrafoc
+{
+    margin: 5%;
+    font-size: min(4.65vw,14px); 
+    line-height: 1.2;
+
 }
 </style>

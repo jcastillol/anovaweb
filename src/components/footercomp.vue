@@ -105,7 +105,7 @@
       <a href="#" ><p class="card-text" id="linkf">GUADALAJARA, JALISCO</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf"><b>ventas@anova.mx</b></p></a>
+      <a href="#" ><p class="card-text" id="linkf" style="color: #302CD1"><b>ventas@anova.mx</b></p></a>
     </li>
      
         

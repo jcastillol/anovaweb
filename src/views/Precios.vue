@@ -2,6 +2,8 @@
     <div>
 <precios_header/>
 <h5 class="espacio"></h5>
+<h5 class="espacio"></h5>
+
 <prc1_nuevo> </prc1_nuevo>
 <br>
 <br>

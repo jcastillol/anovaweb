@@ -108,9 +108,7 @@ body {
   height: 900px;
   background-size: 100% 100%;
   padding-top: 100px;
-  display: flex;
-  justify-content: center;
-  align-items:center ;
+  
 
 }
 #soporteheader
@@ -453,6 +451,14 @@ list-style-position: inside;
 margin-left: 30px;
 	padding: 0;
 }
+
+.numeracion
+  {
+list-style-type: decimal;
+list-style-position: inside;
+margin-left: 30px;
+	padding: 0;
+}
 .negrita
 {
   font-weight: bold;
@@ -576,6 +582,8 @@ margin-left: 30px;
   max-width: 220px;
 max-height: 200px;
 }
+
+
  
   hr
   {
@@ -653,6 +661,10 @@ max-height: 200px;
   padding: 0;
   margin-left: 30px;
 
+  }
+  .imgsoporte
+  {
+    width: 50%;
   }
   
 

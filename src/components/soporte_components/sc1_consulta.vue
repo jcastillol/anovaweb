@@ -5,7 +5,7 @@
     <div class="row row-cols-1 row-cols-lg-3 bg-transparent  justify-content-center">
   <div class="col">
     <div class="card border-0">
-      <img src="img/soporte/soporte_boton1.png" class="mx-auto" alt="..." >
+      <img src="img/soporte/soporte_boton1.png" class="mx-auto imgsoporte" alt="..." >
       <div class="mx-auto">
     <button class="button button3">Descargar Primeros Pasos</button>
         <p class="card-text" id="parrafob">
@@ -17,7 +17,7 @@ empezar a operar tu  restaurante
   </div>
   <div class="col">
     <div class="card border-0">
-      <img src="img/soporte/soporte_boton2.png" class="mx-auto" alt="..." >
+      <img src="img/soporte/soporte_boton2.png" class="mx-auto imgsoporte" alt="..." >
       <div class=" mx-auto">
     <button class="button button3">Descargar paquetes <br> y promociones</button>
         <p class="card-text" id="parrafob">
@@ -30,7 +30,7 @@ seguimiento en inventario.
   </div>
   <div class="col">
     <div class="card border-0">
-      <img src="img/soporte/soporte_boton3.png" class="mx-auto" alt="..." >
+      <img src="img/soporte/soporte_boton3.png" class="mx-auto imgsoporte" alt="..." >
       <div class=" mx-auto">
     <button class="button button3">Descargar Inventarios</button>
         <p class="card-text" id="parrafob">

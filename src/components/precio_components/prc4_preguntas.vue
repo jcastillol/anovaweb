@@ -9,7 +9,7 @@
      Lo que debes saber al adquirir ANOVA</h5>
   <div role="tablist" class="mb-5">
     <b-card no-body class="mb-1">
-      <b-card-header header-tag="header" class="p-1" role="tab">
+      <b-card-header header-tag="header" class="p-1 text-left" role="tab">
         <b-button block href="#" v-b-toggle.accordion-1 variant="light">Accordion 1</b-button>
       </b-card-header>
       <b-collapse id="accordion-1"  accordion="my-accordion" role="tabpanel">

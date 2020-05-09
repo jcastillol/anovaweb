@@ -19,7 +19,7 @@
       <br>
       <br>
           <p id="parrafoc">¿No tienes una cuenta?
-                      <a href="/registrarse_anova" id="link">Crea una</a>
+                      <a :to="'registrarse_anova'" id="link">Crea una</a>
                </p>     
      <br>
  </div>

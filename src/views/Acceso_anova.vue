@@ -6,7 +6,7 @@
       <img src="img/acceso/accesod_logo.png" alt="" srcset="">
       <p id="titulohome">Bienvenido a <br> ANOVA</p>
             <p id="parrafoc">¿No tienes una cuenta?
-                      <a href="registrarse_anova" id="link">Crea una</a>
+                      <a href="/registrarse_anova" id="link">Crea una</a>
                </p>
       <form>
         <div class="container text-center" id="form">
@@ -25,7 +25,7 @@
       <br>
       <br>
       <p id="parrafoc">¿Olvidaste tu contraseña? 
-        <a href="recuperar_contraseña" id="link">Recupérala</a>
+        <a href="/recuperar_contraseña" id="link">Recupérala</a>
         </p>
      
      <br>

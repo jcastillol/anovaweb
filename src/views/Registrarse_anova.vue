@@ -26,7 +26,7 @@
      
       <br>
        <p id="parrafoc">¿Olvidaste tu contraseña? 
-        <a href="recuperar_contraseña"  id="link">Recupérala</a>
+        <a href="/recuperar_contraseña"  id="link">Recupérala</a>
         </p>     
      <br>
  </div>

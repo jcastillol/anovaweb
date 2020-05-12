@@ -7,7 +7,8 @@
     <div class="card border-0">
       <img src="img/soporte/soporte_boton1.png" class="mx-auto imgsoporte" alt="..." >
       <div class="mx-auto">
-    <button class="button button3">Descargar Primeros Pasos</button>
+        <a href="primeros_pasos.pdf">
+    <button class="button button3">Descargar Primeros Pasos</button></a>
         <p class="card-text" id="parrafob">
        Encontrarás lo necesario para 
 empezar a operar tu  restaurante.
@@ -19,7 +20,8 @@ empezar a operar tu  restaurante.
     <div class="card border-0">
       <img src="img/soporte/soporte_boton2.png" class="mx-auto imgsoporte" alt="..." >
       <div class=" mx-auto">
-    <button class="button button3">Descargar paquetes <br> y promociones</button>
+        <a href="paquetes_promociones.pdf">
+    <button class="button button3">Descargar paquetes <br> y promociones</button></a>
         <p class="card-text" id="parrafob">
         Sabrás gestionar los 
 modificadores, con o sin 
@@ -32,7 +34,8 @@ seguimiento en inventario.
     <div class="card border-0">
       <img src="img/soporte/soporte_boton3.png" class="mx-auto imgsoporte" alt="..." >
       <div class=" mx-auto">
-    <button class="button button3">Descargar Inventarios</button>
+      <a href="inventarios.pdf">
+    <button class="button button3">Descargar Inventarios</button></a>
         <p class="card-text" id="parrafob">
         Conocerás como tener bajo
  control tu inventario, desde como agregar un insumo,  compras.

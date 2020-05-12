@@ -24,9 +24,10 @@
   <br>    
 
 </h5>
-   
-  <button class="button button1 mb-2">Agendar demostración</button>
-        <button class="button button2 ml-2 ">Solicitar cotización</button>
+   <a href="asesoria.html">
+  <button class="button button1 mb-2">Agendar demostración</button></a>
+  <a href="cotizacion.html">
+        <button class="button button2 ml-2 ">Solicitar cotización</button></a>
  <br>
   <br>
 

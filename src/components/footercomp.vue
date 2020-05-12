@@ -8,17 +8,19 @@
  <div class="row row-cols-3 bg-transparent no-gutters justify-content-center ">
     <div class="col">
      
-           <img src="img/home_facebook.png" class="card-img" alt="..." style="width:40px" >
+      <a href="https://www.facebook.com/Anovasoftware/"><img src="img/home_facebook.png" class="card-img" alt="..." style="width:40px" ></a>     
   
     </div>
       <div class="col ">
-      
+      <a href="https://www.youtube.com/channel/UChbMpTYKhnPC2RzkOxzqc8A">
   <img src="img/home_youtube.png" class="card-img" alt="..." style="width:40px">
-        
+        </a>
       </div>
       <div class="col ">
-
+       <a href="https://www.instagram.com/anovasoftware/?hl=es-la">
         <img src="img/home_instagram.png" class="card-img" alt="..." style="width:40px">
+              </a>
+
       </div>
  
 
@@ -57,19 +59,19 @@ herramientas tecnológicas.
      <p class="card-text" id="titulof">MAPA DE SITIO</p>
      <ul class="list-group list-group-flush  ">
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">HOME</p></a>
+      <a href="/" ><p class="card-text" id="linkf">HOME</p></a>
     </li>
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">SOFTWARE</p></a>
+      <a href="/puntodeventa" ><p class="card-text" id="linkf">SOFTWARE</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
       <a href="#" ><p class="card-text" id="linkf">HARDWARE</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">PRECIOS</p></a>
+      <a href="/precios" ><p class="card-text" id="linkf">PRECIOS</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">SOPORTE</p></a>
+      <a href="/soporte" ><p class="card-text" id="linkf">SOPORTE</p></a>
     </li>
         
   </ul>
@@ -81,16 +83,16 @@ herramientas tecnológicas.
      <p class="card-text" id="titulof">PROXIMOS PASOS</p>
      <ul class="list-group list-group-flush  ">
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">DESCARGAR DEMO</p></a>
+      <a href="pruebagratis.html" ><p class="card-text" id="linkf">DESCARGAR DEMO</p></a>
     </li>
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">SOLICITAR SESIÓN DEMO</p></a>
+      <a href="asesoria.html" ><p class="card-text" id="linkf">SOLICITAR SESIÓN DEMO</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">SOLICITAR COTIZACIÓN</p></a>
+      <a href="cotizacion.html" ><p class="card-text" id="linkf">SOLICITAR COTIZACIÓN</p></a>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">COMPRAR ANOVA</p></a>
+      <a href="/precios" ><p class="card-text" id="linkf">COMPRAR ANOVA</p></a>
     </li>
   
         
@@ -102,13 +104,13 @@ herramientas tecnológicas.
      <p class="card-text" id="titulof">CONTACTO</p>
      <ul class="list-group list-group-flush  ">
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">ISLOTE 2314, COLONIA VALLE VERDE </p></a>
+      <p class="card-text" id="linkf">ISLOTE 2314, COLONIA VALLE VERDE </p>
     </li>
     <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf">GUADALAJARA, JALISCO</p></a>
+      <p class="card-text" id="linkf">GUADALAJARA, JALISCO</p>
     </li>
      <li class="list-group-item bg-transparent border-0 ">
-      <a href="#" ><p class="card-text" id="linkf" style="color: #302CD1"><b>ventas@anova.mx</b></p></a>
+     <p class="card-text" id="linkf" style="color: #302CD1"><b>ventas@anova.mx</b></p>
     </li>
      
         

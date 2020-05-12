@@ -10,11 +10,13 @@
  <p  id="titulohome">  Controlar tu restaurante <br> nunca fue tan fácil</p> 
  <br> 
  <p  id="subtitulohome" >Software inteligente punto de venta para <br> RESTAURANTES, BARES Y CAFETERÍAS</p>     
-
-  <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de ANOVA</button>
-   <router-link :to="'prueba_30dias'" id="link2" > <button class="button button2 ml-1 mt-2">
+ <a href="https://youtu.be/Syq44d-XJow">
+  <button class="button button1"> <i class="fas fa-play"> </i>  Ver video de ANOVA</button></a>
+   <a href="pruebagratis.html" id="link2" >
+   <button class="button button2 ml-1 mt-2">
               Prueba gratis 30 dias
-      </button></router-link>
+      </button>
+      </a>
  
       </div>
     </div>

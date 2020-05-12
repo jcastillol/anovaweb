@@ -20,8 +20,9 @@
         realiza las actividades diarias más rápido y automatiza todas las operaciones 
         de tu negocio desde un solo lugar.</p>
   <br>
+     <a href="/puntodeventa">
     <button class="button button2 ml-2">Ver mas información</button>
-
+</a>
 
       </div>
     </div>

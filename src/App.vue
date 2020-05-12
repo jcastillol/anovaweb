@@ -22,7 +22,7 @@
           <b-button pill   size="md" id="buttonwha" variant="light" class="my-2 my-sm-0 ml-3" type="submit">
             <i class="fab fa-whatsapp"></i> ¡Escríbenos! </b-button>
      
-        <b-nav-item class="pl-2" href="/accesoanova"> <img src="img/home_iconoacceder.png" id="iconoacceder"></b-nav-item>
+        <b-nav-item class="pl-2" href="http://app.anova.mx/dark/zlogin.html"> <img src="img/home_iconoacceder.png" id="iconoacceder"></b-nav-item>
 
 
 
